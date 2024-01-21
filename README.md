@@ -12,6 +12,12 @@
 |🍻| 其他 | 森罗万象 | - |
 |🥗| 阅读 | 站在巨人的肩膀上 | 书摘、笔记、读后感 |
 
+## 环境
+
+[Gitee : https://gitee.com/eden2f/notes【推荐】](https://gitee.com/eden2f/notes)
+
+[Github : https://github.com/eden2f/Notes](https://github.com/eden2f/Notes)
+
 ## 目录
 
 ### ☕Java
