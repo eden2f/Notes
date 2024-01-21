@@ -13,11 +13,11 @@
     
 查看 ueditor.config.js
     
-![](../../../assets/2024-01-21-19-13-57.png)
+![](https://gitee.com/eden2f/pic-hosting/raw/master/notes/20240121210215.png)
     
-![](../../../assets/2024-01-21-19-14-11.png)
+![](https://gitee.com/eden2f/pic-hosting/raw/master/notes/20240121210242.png)
     
-![](../../../assets/2024-01-21-19-14-22.png)
+![](https://gitee.com/eden2f/pic-hosting/raw/master/notes/20240121210302.png)
     
 ## ueditor 源码
     
@@ -25,11 +25,11 @@
 
 ## 删除 ueditor jar包
 
-![](http://upload-images.jianshu.io/upload_images/4139030-8d5be978224545d4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://gitee.com/eden2f/pic-hosting/raw/master/notes/20240121210328.png)
     
 ## 引入源码
     
-![](http://upload-images.jianshu.io/upload_images/4139030-122f7ab2a88b027e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://gitee.com/eden2f/pic-hosting/raw/master/notes/20240121210402.png)
 
 几个比较重要的类(突然然发现这些名字都起的好好，见名知义)：
     
@@ -192,11 +192,11 @@ State 的其中一个实现类里面包含了一个 Map<String ,String > 实例�
         
 * 前台请求规范
 
-![](../../../assets/2024-01-21-19-18-54.png)
+![](https://gitee.com/eden2f/pic-hosting/raw/master/notes/20240121210438.png)
         
 * 后台返回规范（以上传图片为例）
 
-![](../../../assets/2024-01-21-19-19-08.png)
+![](https://gitee.com/eden2f/pic-hosting/raw/master/notes/20240121210549.png)
 
 * 具体后台运行过程，自己用 debug 工具，多走几下就知道了（这里就不演示了）
 
@@ -209,4 +209,4 @@ http://localhost:8080/_ueditor/ueditor/index.html
   
 * 上传图片功能也可正常使用
       
-![](../../../assets/2024-01-21-19-20-02.png)
+![](https://gitee.com/eden2f/pic-hosting/raw/master/notes/20240121210614.png)
