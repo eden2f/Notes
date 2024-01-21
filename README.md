@@ -24,11 +24,15 @@ Github : [https://github.com/eden2f/Notes](https://github.com/eden2f/Notes)
 
 #### Java SE
 
-[Jackson parser LocalDataTime 异常](<markdown/Java/Java SE/Jackson parser LocalDataTime 异常.md>)
+* [Jackson parser LocalDataTime 异常](<markdown/Java/Java SE/Jackson parser LocalDataTime 异常.md>)
 
 #### Spring
 
-[SpringBoot集成Druid](markdown/Java/Spring/SpringBoot%E9%9B%86%E6%88%90Druid.md)
+* [Spring集成Jedis](markdown/Java/Spring/Spring%E9%9B%86%E6%88%90Jedis.md)
+* [SpringBoot集成Redis](markdown/Java/Spring/SpringBoot%E9%9B%86%E6%88%90Redis.md)
+* [SpringBoot集成Druid](markdown/Java/Spring/SpringBoot%E9%9B%86%E6%88%90Druid.md)
+* [SpringBoot集成SpringSecurity](markdown/Java/Spring/SpringBoot%E9%9B%86%E6%88%90SpringSecurity.md)
+* [SpringBoot集成SpringSecurity实现JWT认证](markdown/Java/Spring/SpringBoot%E9%9B%86%E6%88%90SpringSecurity%E5%AE%9E%E7%8E%B0JWT%E8%AE%A4%E8%AF%81.md)
 
 #### Netty
 
@@ -40,13 +44,16 @@ Github : [https://github.com/eden2f/Notes](https://github.com/eden2f/Notes)
 
 #### Redis
 
-[Jedis客户端HelloWorld](markdown/%E4%B8%AD%E9%97%B4%E4%BB%B6/Redis/Jedis%E5%AE%A2%E6%88%B7%E7%AB%AFHelloWorld.md)
+* [Jedis客户端HelloWorld](markdown/%E4%B8%AD%E9%97%B4%E4%BB%B6/Redis/Jedis%E5%AE%A2%E6%88%B7%E7%AB%AFHelloWorld.md)
 
 #### Elasticsearch
 
 ### 🍳操作系统
 
 #### Linux
+
+* [Ubuntu安装JDK](markdown/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/Linux/Ubuntu%E5%AE%89%E8%A3%85JDK.md)
+* [Ubuntu安装Tomcat](markdown/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/Linux/Ubuntu%E5%AE%89%E8%A3%85Tomcat.md)
 
 #### Windows
 
