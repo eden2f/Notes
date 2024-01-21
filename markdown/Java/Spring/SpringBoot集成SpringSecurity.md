@@ -3,13 +3,13 @@
     
 ## Maven 依赖
         
-    ``` java
-            <!-- spring security 认证授权 -->
-    <dependency>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-starter-security</artifactId>
-    </dependency>
-    ```
+``` xml
+<!-- spring security 认证授权 -->
+<dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-security</artifactId>
+</dependency>
+```
     
 ## 配置文件
         
