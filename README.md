@@ -40,7 +40,7 @@ Github : [https://github.com/eden2f/Notes](https://github.com/eden2f/Notes)
 
 #### Redis
 
-[Jedis客户端HelloWorld](markdown/%E4%B8%AD%E9%97%B4%E4%BB%B6/Redis/Jedis%E5%AE%A2%E6%88%B7%E7%AB%AF%E7%9A%84%E4%BD%BF%E7%94%A8.md)
+[Jedis客户端HelloWorld](markdown/%E4%B8%AD%E9%97%B4%E4%BB%B6/Redis/Jedis%E5%AE%A2%E6%88%B7%E7%AB%AFHelloWorld.md)
 
 #### Elasticsearch
 
