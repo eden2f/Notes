@@ -39,7 +39,7 @@
   
 * 构造方法，初始化的时候 利用 CongigManager 加载 jsp/config.json 的数据
      
-``` json
+``` java
 public ActionEnter ( HttpServletRequest request,String rootPath ) {
     this.request = request;
     this.rootPath = rootPath;
@@ -51,7 +51,7 @@ public ActionEnter ( HttpServletRequest request,String rootPath ) {
         
 * 根据不同请求执行不同的逻辑代码
         
-``` json
+``` java
 public String invoke() {
 
     if ( actionType == null || !ActionMap.mapping.containsKey( actionType ) ) {
@@ -106,7 +106,7 @@ public String invoke() {
         
 配置管理器 : 看下面代码对比一下 jsp/config.json 就知道了
         
-``` json
+``` java
     
 public Map<String, Object> getConfig ( int type ) {
 
