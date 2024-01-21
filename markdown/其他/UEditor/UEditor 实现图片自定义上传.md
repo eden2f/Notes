@@ -4,11 +4,11 @@
     
 * 官方说明：
 
-![](https://gitee.com/eden2f/pic-hosting/raw/master/notes/20240121205650.png)
+![](https://eden-notes-pic-hosting.oss-cn-shenzhen.aliyuncs.com/notes/images/20240121224539.png)
 
 * 新建 diyindex.html
     
-![](https://gitee.com/eden2f/pic-hosting/raw/master/notes/20240121205722.png)
+![](https://eden-notes-pic-hosting.oss-cn-shenzhen.aliyuncs.com/notes/images/20240121224518.png)
    
 * diyindex.html 代码
     
@@ -55,17 +55,17 @@ var ue = UE.getEditor('editor');
     
 * 注意
     
-![](https://gitee.com/eden2f/pic-hosting/raw/master/notes/20240121205758.png)
+![](https://eden-notes-pic-hosting.oss-cn-shenzhen.aliyuncs.com/notes/images/20240121224451.png)
 
 ## 新建 UploadImageServlet 处理前端上传请求、保存图片、返回信息配置web.xml 中
         
-![](https://gitee.com/eden2f/pic-hosting/raw/master/notes/20240121205814.png)
+![](https://eden-notes-pic-hosting.oss-cn-shenzhen.aliyuncs.com/notes/images/20240121224422.png)
 
 ### UploadImageServlet 代码
   
 * 属性
 
-![](https://gitee.com/eden2f/pic-hosting/raw/master/notes/20240121205833.png)
+![](https://eden-notes-pic-hosting.oss-cn-shenzhen.aliyuncs.com/notes/images/20240121224346.png)
 
 * doPost 方法代码
         
@@ -160,7 +160,7 @@ protected void doPost(HttpServletRequest request, HttpServletResponse response) 
 ```
 * 其他方法
 
-![](https://gitee.com/eden2f/pic-hosting/raw/master/notes/20240121205858.png)
+![](https://eden-notes-pic-hosting.oss-cn-shenzhen.aliyuncs.com/notes/images/20240121224314.png)
 
 * 注意
     
@@ -171,4 +171,4 @@ UploadImageServlet中的rootPath与config.json中的imageUrlPrefix需要按需�
 private String rootPath = "";
 ```
 
-![](https://gitee.com/eden2f/pic-hosting/raw/master/notes/20240121205928.png)
+![](https://eden-notes-pic-hosting.oss-cn-shenzhen.aliyuncs.com/notes/images/20240121224250.png)

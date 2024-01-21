@@ -19,7 +19,7 @@
 
 1. 新建一个web工程或者maven工程 (这里以maven工程项目为例)
 
-![](https://gitee.com/eden2f/pic-hosting/raw/master/notes/20240121210703.png)
+![](https://eden-notes-pic-hosting.oss-cn-shenzhen.aliyuncs.com/notes/images/20240121225033.png)
 
 1. 从ueditor官网下载
 
@@ -27,15 +27,15 @@
     
 3. 部署到新建的项目上
     
-![](https://gitee.com/eden2f/pic-hosting/raw/master/notes/20240121210731.png)
+![](https://eden-notes-pic-hosting.oss-cn-shenzhen.aliyuncs.com/notes/images/20240121225139.png)
     
  * 将 jsp/lib 目录下的 jar 包复制到 WEB-INF/lib 目录下
- 
-![](https://gitee.com/eden2f/pic-hosting/raw/master/notes/20240121210959.png)
+
+![](https://eden-notes-pic-hosting.oss-cn-shenzhen.aliyuncs.com/notes/images/20240121225214.png)
  
  * 修改 jsp/config.json 的各个访问路径前缀，填为本项目在tomcat运行的访问前缀
  
-![](https://gitee.com/eden2f/pic-hosting/raw/master/notes/20240121211023.png)
+![](https://eden-notes-pic-hosting.oss-cn-shenzhen.aliyuncs.com/notes/images/20240121225239.png)
 
 ## 运行项目
 * 访问
@@ -43,6 +43,6 @@
 http://localhost:8080/_ueditor/ueditor/index.html
 ```
 
-![](https://gitee.com/eden2f/pic-hosting/raw/master/notes/20240121211114.png)
+![](https://eden-notes-pic-hosting.oss-cn-shenzhen.aliyuncs.com/notes/images/20240121225304.png)
    
 * 图片上传功能也可以正常使用了

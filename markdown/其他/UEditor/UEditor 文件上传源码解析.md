@@ -13,11 +13,11 @@
     
 查看 ueditor.config.js
     
-![](https://gitee.com/eden2f/pic-hosting/raw/master/notes/20240121210215.png)
+![](https://eden-notes-pic-hosting.oss-cn-shenzhen.aliyuncs.com/notes/images/20240121224655.png)
     
-![](https://gitee.com/eden2f/pic-hosting/raw/master/notes/20240121210242.png)
+![](https://eden-notes-pic-hosting.oss-cn-shenzhen.aliyuncs.com/notes/images/20240121224718.png)
     
-![](https://gitee.com/eden2f/pic-hosting/raw/master/notes/20240121210302.png)
+![](https://eden-notes-pic-hosting.oss-cn-shenzhen.aliyuncs.com/notes/images/20240121224743.png)
     
 ## ueditor 源码
     
@@ -25,11 +25,11 @@
 
 ## 删除 ueditor jar包
 
-![](https://gitee.com/eden2f/pic-hosting/raw/master/notes/20240121210328.png)
+![](https://eden-notes-pic-hosting.oss-cn-shenzhen.aliyuncs.com/notes/images/20240121224813.png)
     
 ## 引入源码
     
-![](https://gitee.com/eden2f/pic-hosting/raw/master/notes/20240121210402.png)
+![](https://eden-notes-pic-hosting.oss-cn-shenzhen.aliyuncs.com/notes/images/20240121224835.png)
 
 几个比较重要的类(突然然发现这些名字都起的好好，见名知义)：
     
@@ -192,11 +192,11 @@ State 的其中一个实现类里面包含了一个 Map<String ,String > 实例�
         
 * 前台请求规范
 
-![](https://gitee.com/eden2f/pic-hosting/raw/master/notes/20240121210438.png)
+![](https://eden-notes-pic-hosting.oss-cn-shenzhen.aliyuncs.com/notes/images/20240121224916.png)
         
 * 后台返回规范（以上传图片为例）
 
-![](https://gitee.com/eden2f/pic-hosting/raw/master/notes/20240121210549.png)
+![](https://eden-notes-pic-hosting.oss-cn-shenzhen.aliyuncs.com/notes/images/20240121224943.png)
 
 * 具体后台运行过程，自己用 debug 工具，多走几下就知道了（这里就不演示了）
 
@@ -209,4 +209,4 @@ http://localhost:8080/_ueditor/ueditor/index.html
   
 * 上传图片功能也可正常使用
       
-![](https://gitee.com/eden2f/pic-hosting/raw/master/notes/20240121210614.png)
+![](https://eden-notes-pic-hosting.oss-cn-shenzhen.aliyuncs.com/notes/images/20240121225007.png)

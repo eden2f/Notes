@@ -54,11 +54,11 @@ D:\apache-tomcat-6.0.41\webapps\ueditor1_4_3-utf8-jsp\jsp\lib\
 
 目录下的所有jar包到第2步创建的lib目录下，结果如图所示：
 
-![](https://gitee.com/eden2f/pic-hosting/raw/master/notes/20240121205157.png)
+![](https://eden-notes-pic-hosting.oss-cn-shenzhen.aliyuncs.com/notes/images/20240121223632.png)
 
 * 部署完成，双击以下脚本文件，启动Tomcat（需要正确配置JAVA_HOME环境变量）。
 
-![](https://gitee.com/eden2f/pic-hosting/raw/master/notes/20240121205457.png)
+![](https://eden-notes-pic-hosting.oss-cn-shenzhen.aliyuncs.com/notes/images/20240121223657.png)
 
 * 验证部署是否成功:
   * 在浏览器地址栏中输入如下URL：
@@ -69,7 +69,7 @@ D:\apache-tomcat-6.0.41\webapps\ueditor1_4_3-utf8-jsp\jsp\lib\
    
   * 出现类似下图所示内容，则配置成功，否则，即为失败。
    
-    ![](https://gitee.com/eden2f/pic-hosting/raw/master/notes/20240121205533.png)
+    ![](https://eden-notes-pic-hosting.oss-cn-shenzhen.aliyuncs.com/notes/images/20240121224114.png)
 
 * 通过 imageUrlPrefix 配置项给返回路径添加前缀
 
@@ -83,9 +83,9 @@ D:\apache-tomcat-6.0.41\webapps\ueditor1_4_3-utf8-jsp\jsp\lib\
 
 修改位置:
 
-![](https://gitee.com/eden2f/pic-hosting/raw/master/notes/20240121205553.png)
+![](https://eden-notes-pic-hosting.oss-cn-shenzhen.aliyuncs.com/notes/images/20240121224146.png)
 
-![](https://gitee.com/eden2f/pic-hosting/raw/master/notes/20240121205605.png)
+![](https://eden-notes-pic-hosting.oss-cn-shenzhen.aliyuncs.com/notes/images/20240121224214.png)
 
 ## 相关文档
 

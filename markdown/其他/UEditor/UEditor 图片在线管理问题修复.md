@@ -4,7 +4,7 @@
 
 图片能够正常上传，正常显示，但是在线管理那里的图片显示不了。
 
-![](https://gitee.com/eden2f/pic-hosting/raw/master/notes/20240121210113.png)
+![](https://eden-notes-pic-hosting.oss-cn-shenzhen.aliyuncs.com/notes/images/20240121224607.png)
 
 
 ## 解决方法
