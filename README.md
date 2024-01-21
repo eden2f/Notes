@@ -14,9 +14,9 @@
 
 ## 环境
 
-[Gitee : https://gitee.com/eden2f/notes【推荐】](https://gitee.com/eden2f/notes)
+Gitee : [https://gitee.com/eden2f/notes](https://gitee.com/eden2f/notes)【推荐】
 
-[Github : https://github.com/eden2f/Notes](https://github.com/eden2f/Notes)
+Github : [https://github.com/eden2f/Notes](https://github.com/eden2f/Notes)
 
 ## 目录
 
