@@ -60,6 +60,8 @@ Github : [https://github.com/eden2f/Notes](https://github.com/eden2f/Notes)
 
 #### MySQL
 
+* [MySQL UPDATE更新语法问题](<markdown/中间件/MySQL/MySQL UPDATE更新语法问题.md>)
+
 #### RocketMQ
 
 #### Redis
