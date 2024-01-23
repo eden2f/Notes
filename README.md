@@ -2,6 +2,8 @@
 
 所有的动力都来自内心的沸腾。如果你做不到一件事，无论是搞好关系，还是寻找爱人，还是减肥，都是因为你还没有真正想做。—— 毕淑敏 《愿你与这世界温暖相拥》
 
+笔记迁移中……
+
 ## 介绍
 
 |食谱|  类目   | 描述  | 项目 |
@@ -37,6 +39,11 @@ Github : [https://github.com/eden2f/Notes](https://github.com/eden2f/Notes)
 * [Java线程 停止线程](<markdown/Java/Java SE/Java线程 停止线程.md>)
 * [Java线程 后台线程(守护线程)](<markdown/Java/Java SE/Java线程 后台线程(守护线程).md>)
 * [Java线程 线程的通讯](<markdown/Java/Java SE/Java线程 线程的通讯.md>)
+* [Java线程 join方法(线程让步)](<markdown/Java/Java SE/Java线程 join方法(线程让步).md>)
+* [JavaIO File的引入](<markdown/Java/Java SE/JavaIO File的引入.md>)
+* [JavaIO File路径问题](<markdown/Java/Java SE/JavaIO File路径问题.md>)
+* [JavaIO File类常用方法](<markdown/Java/Java SE/JavaIO File类常用方法.md>)
+
 * [Jackson parser LocalDataTime 异常](<markdown/Java/Java SE/Jackson parser LocalDataTime 异常.md>)
 
 #### Spring
@@ -75,6 +82,17 @@ Github : [https://github.com/eden2f/Notes](https://github.com/eden2f/Notes)
 ### 🍖Python
 
 ### 🍗Lua
+
+* [Lua 协同程序](<markdown/Lua/Lua 协同程序.md>)
+* [Lua 协同程序解决生产者与消费者问题](<markdown/Lua/Lua 协同程序解决生产者与消费者问题.md>)
+* [Lua 用协同程序实现迭代器](<markdown/Lua/Lua 用协同程序实现迭代器.md>)
+* [Lua 非抢先式的（non-preemptive）多线程](<markdown/Lua/Lua 非抢先式的（non-preemptive）多线程.md>)
+* [Lua 队列的基本操作(集合,无序组,包)](<markdown/Lua/Lua 队列的基本操作(集合,无序组,包).md>)
+* [Lua 矩阵,多维数组,链表](<markdown/Lua/Lua 矩阵,多维数组,链表.md>)
+* [Lua 字符串缓冲](<markdown/Lua/Lua 字符串缓冲.md>)
+* [Lua 图](<markdown/Lua/Lua 图.md>)
+* [Lua 序列化(Serialization)](<markdown/Lua/Lua 序列化(Serialization).md>)
+* [Lua 文件读取和写入](<markdown/Lua/Lua 文件读取和写入.md>)
 
 ### 🍻其他
 
