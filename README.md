@@ -43,6 +43,7 @@ Github : [https://github.com/eden2f/Notes](https://github.com/eden2f/Notes)
 * [JavaIO File的引入](<markdown/Java/Java SE/JavaIO File的引入.md>)
 * [JavaIO File路径问题](<markdown/Java/Java SE/JavaIO File路径问题.md>)
 * [JavaIO File类常用方法](<markdown/Java/Java SE/JavaIO File类常用方法.md>)
+* [Java Reflect反射机制](<markdown/Java/Java SE/Java Reflect反射机制.md>)
 
 * [Jackson parser LocalDataTime 异常](<markdown/Java/Java SE/Jackson parser LocalDataTime 异常.md>)
 
@@ -76,10 +77,22 @@ Github : [https://github.com/eden2f/Notes](https://github.com/eden2f/Notes)
 
 * [Ubuntu安装JDK](markdown/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/Linux/Ubuntu%E5%AE%89%E8%A3%85JDK.md)
 * [Ubuntu安装Tomcat](markdown/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/Linux/Ubuntu%E5%AE%89%E8%A3%85Tomcat.md)
+* [Ubuntu 安装Lua](<markdown/操作系统/Linux/Ubuntu 安装Lua.md>)
+* [Linux 安装Redis](<markdown/操作系统/Linux/Linux 安装Redis.md>)
 
 #### Windows
 
+* [Windows 批处理文件(bat)](<markdown/操作系统/Windows/Windows 批处理文件(bat).md>)
+
 ### 🍖Python
+
+* [Python 类与对象](<markdown/Python/Python 类与对象.md>)
+* [Python 类的隐藏属性和隐藏方法](<markdown/Python/Python 类的隐藏属性和隐藏方法.md>)
+* [Python __new__与方法单例模式](<markdown/Python/Python __new__与方法单例模式.md>)
+* [Python 继承](<markdown/Python/Python 继承.md>)
+* [Python 类属性和实例属性](<markdown/Python/Python 类属性和实例属性.md>)
+* [Python 类方法、实例方法、静态方法](<markdown/Python/Python 类方法、实例方法、静态方法.md>)
+* [Python 异常处理](<markdown/Python/Python 异常处理.md>)
 
 ### 🍗Lua
 
@@ -124,6 +137,8 @@ Github : [https://github.com/eden2f/Notes](https://github.com/eden2f/Notes)
   * [UEditor 实现图片自定义上传](<markdown/其他/UEditor/UEditor 实现图片自定义上传.md>)
   * [UEditor 图片在线管理问题修复](<markdown/其他/UEditor/UEditor 图片在线管理问题修复.md>)
 * [OGNL 对象图导航语言](<markdown/其他/OGNL 对象图导航语言.md>)
+* [Java 报表POI操作Excel](<markdown/其他/Java 报表POI操作Excel.md>)
+* [Refused to display '' in a frame because it set 'X-Frame-Options' to 'deny'](<markdown/其他/Refused to display '' in a frame because it set 'X-Frame-Options' to 'deny'.md>)
 
 ### 🥗阅读
 
