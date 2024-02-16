@@ -96,7 +96,7 @@ Github : [https://github.com/eden2f/Notes](https://github.com/eden2f/Notes)
 * [Python 类属性和实例属性](<markdown/Python/Python 类属性和实例属性.md>)
 * [Python 类方法、实例方法、静态方法](<markdown/Python/Python 类方法、实例方法、静态方法.md>)
 * [Python 异常处理](<markdown/Python/Python 异常处理.md>)
-* [Python 自动化脚本示例](<markdown/Python/Python 自动化脚本示例.md>)
+* [Python 爬虫脚本示例](<markdown/Python/Python 爬虫脚本示例.md>)
 
 ### 🍗Lua
 
