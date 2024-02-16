@@ -47,7 +47,7 @@ Github : [https://github.com/eden2f/Notes](https://github.com/eden2f/Notes)
 * [Java Servlet多请求映射增强](<markdown/Java/Java SE/Java Servlet多请求映射增强.md>)
 
 * [Jackson parser LocalDataTime 异常](<markdown/Java/Java SE/Jackson parser LocalDataTime 异常.md>)
-* [Java jackon JSON parse error](<markdown/其他/Java jackon JSON parse error.md>)
+* [Jackson JSON parse error](<markdown/Java/Java SE/Jackson JSON parse error.md>)
 
 #### Spring
 
@@ -96,6 +96,7 @@ Github : [https://github.com/eden2f/Notes](https://github.com/eden2f/Notes)
 * [Python 类属性和实例属性](<markdown/Python/Python 类属性和实例属性.md>)
 * [Python 类方法、实例方法、静态方法](<markdown/Python/Python 类方法、实例方法、静态方法.md>)
 * [Python 异常处理](<markdown/Python/Python 异常处理.md>)
+* [Python 自动化脚本示例](<markdown/Python/Python 自动化脚本示例.md>)
 
 ### 🍗Lua
 
