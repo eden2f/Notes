@@ -57,6 +57,7 @@ Github : [https://github.com/eden2f/Notes](https://github.com/eden2f/Notes)
 * [SpringBoot集成SpringSecurity](markdown/Java/Spring/SpringBoot%E9%9B%86%E6%88%90SpringSecurity.md)
 * [SpringBoot集成SpringSecurity实现JWT认证](markdown/Java/Spring/SpringBoot%E9%9B%86%E6%88%90SpringSecurity%E5%AE%9E%E7%8E%B0JWT%E8%AE%A4%E8%AF%81.md)
 * [SpringBoot集成Swagger](markdown/Java/Spring/SpringBoot集成Swagger.md)
+* [Spring+SpringMVC集成SpringSecurity(SpringSecurity保护Web应用)](markdown/Java/Spring/Spring+SpringMVC集成SpringSecurity(SpringSecurity保护Web应用).md)
 
 #### Netty
 
