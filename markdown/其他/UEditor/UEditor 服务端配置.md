@@ -19,7 +19,7 @@ UEditor 1.4.0 版本对之前的配置方式进行了简化，具体请参见：
    * UEditor 1.4.3 UTF-8 Java版
    * OS: Windows7 Ultimate SP1 X64
    * Eclipse 4.4.0
-* *软件路径信息
+* 软件路径信息
 
 Tomcat 安装路径： 
 ```

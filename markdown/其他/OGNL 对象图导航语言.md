@@ -359,14 +359,14 @@ OGNL将lambda表达式视为常量。lambda表达式的值是OGNL用作所包含
 
 OGNL提供了一些特殊的集合属性。其原因是集合不遵循JavaBeans模式进行方法命名；因此，必须调用size()、length()等方法，而不是更直观地将它们称为属性。OGNL通过公开某些伪属性来纠正此问题，就像它们是内置的一样。
 
-｜ 集合 ｜ 特殊属性 ｜
-｜ --- ｜ --- ｜
-｜ Collection （由Map、List和Set继承） ｜ size：集合的大小 <br> isEmpty：如果集合为空，则计算结果为true ｜
-｜ List ｜ iterator：计算List上的迭代器。 ｜
-｜ Map ｜ keys：计算映射中所有键的集合 <br/> value：计算Map中所有值的集合 <br/> 注意这些属性（加上size和isEmpty ）与Map的索引访问形式不同（即someMap["size"]从映射中获取“size”键，而someMap.size获取Map 的大小 ｜
-｜ Set ｜ iterator：计算集合上的迭代器 ｜
-｜ Iterator ｜ next ：计算迭代器中的下一个对象 <br/> hasNext：如果迭代器中有下一个对象可用，则计算结果为true ｜
-｜ Enumeration ｜ next ：计算枚举中的下一个对象 <br/> hasNext：如果枚举中有下一个可用对象，则计算结果为true <br/> nextElement：下一个的同义词 <br/> hasMoreElements : hasNext的同义词 ｜
+| 集合 | 特殊属性 |
+| --- | --- |
+| Collection （由Map、List和Set继承） | size：集合的大小,isEmpty：如果集合为空，则计算结果为true |
+| List | iterator：计算List上的迭代器。 |
+| Map | keys：计算映射中所有键的集合,value：计算Map中所有值的集合,注意这些属性（加上size和isEmpty ）与Map的索引访问形式不同（即someMap["size"]从映射中获取“size”键，而someMap.size获取Map 的大小 |
+| Set | iterator：计算集合上的迭代器 |
+| Iterator | next ：计算迭代器中的下一个对象,hasNext：如果迭代器中有下一个对象可用，则计算结果为true |
+| Enumeration | next ：计算枚举中的下一个对象,hasNext：如果枚举中有下一个可用对象，则计算结果为true,nextElement：下一个的同义词,hasMoreElements : hasNext的同义词 |
 
 ### 与 Java 运算符不同的运算符
 

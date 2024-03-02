@@ -24,7 +24,7 @@ mv www tomcat_8.5.9
 
 ## 设置tomcat JAVA_HOME
     
-* ### 进入解压得到的文件夹的bin目录下
+### 进入解压得到的文件夹的bin目录下
   ```
   cd /home/xxx/Softwares/tomcat/tomcat_8.5.9/bin/
   ```
