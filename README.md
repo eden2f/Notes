@@ -18,7 +18,7 @@
 
 ## 空间
 
-语雀（始于2024） : [https://www.yuque.com/eden2f/notes](https://www.yuque.com/eden2f/notes)
+语雀（始于2024） : [https://www.yuque.com/eden2f/create](https://www.yuque.com/eden2f/create)
 
 Gitee（始于2023） : [https://gitee.com/eden2f/notes](https://gitee.com/eden2f/notes)
 
