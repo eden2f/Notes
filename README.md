@@ -4,6 +4,18 @@
 
 注意：笔记还在迁移中，给作者打打气吧~
 
+## 空间
+
+语雀（始于2024） : [https://www.yuque.com/eden2f/create](https://www.yuque.com/eden2f/create)
+
+Gitee（始于2023） : [https://gitee.com/eden2f/notes](https://gitee.com/eden2f/notes)
+
+Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/eden2f/Notes)
+
+博客（始于2017） : [https://www.renzhen.online/](https://www.renzhen.online/)
+
+简书（始于2016） : [https://www.jianshu.com/u/34fd4f848a42](https://www.jianshu.com/u/34fd4f848a42)
+
 ## 介绍
 
 |食谱|  类目   | 描述  | 项目 |
@@ -15,18 +27,6 @@
 |🍗| Lua | Lua是一个简洁、轻量、可扩展的脚本语言。Lua有着相对简单的C语言API而很容易嵌入应用中。很多应用程序使用Lua作为自己的嵌入式脚本语言，以此来实现可配置性、可扩展性。 | - |
 |🍻| 其他 | 森罗万象 | - |
 |🥗| 阅读 | 站在巨人的肩膀上 | 书摘、笔记、读后感 |
-
-## 空间
-
-语雀（始于2024） : [https://www.yuque.com/eden2f/create](https://www.yuque.com/eden2f/create)
-
-Gitee（始于2023） : [https://gitee.com/eden2f/notes](https://gitee.com/eden2f/notes)
-
-Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/eden2f/Notes)
-
-博客（始于2017） : [https://www.renzhen.online/](https://www.renzhen.online/)
-
-简书（始于2016）[不推荐] : [https://www.jianshu.com/u/34fd4f848a42](https://www.jianshu.com/u/34fd4f848a42)
 
 ## 目录
 
