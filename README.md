@@ -2,7 +2,7 @@
 
 所有的动力都来自内心的沸腾。如果你做不到一件事，无论是搞好关系，还是寻找爱人，还是减肥，都是因为你还没有真正想做。—— 毕淑敏 《愿你与这世界温暖相拥》
 
-笔记迁移中……
+注意：笔记迁移中……
 
 ## 介绍
 
@@ -16,13 +16,17 @@
 |🍻| 其他 | 森罗万象 | - |
 |🥗| 阅读 | 站在巨人的肩膀上 | 书摘、笔记、读后感 |
 
-## 仓库
+## 空间
 
-Gitee : [https://gitee.com/eden2f/notes](https://gitee.com/eden2f/notes)
+语雀（始于2024） : [https://www.yuque.com/eden2f/notes](https://www.yuque.com/eden2f/notes)
 
-Github : [https://github.com/eden2f/Notes](https://github.com/eden2f/Notes)
+Gitee（始于2023） : [https://gitee.com/eden2f/notes](https://gitee.com/eden2f/notes)
 
-博客 : [https://www.renzhen.online/](https://www.renzhen.online/)
+Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/eden2f/Notes)
+
+博客（始于2017） : [https://www.renzhen.online/](https://www.renzhen.online/)
+
+简书（始于2016）[不推荐] : [https://www.jianshu.com/u/34fd4f848a42](https://www.jianshu.com/u/34fd4f848a42)
 
 ## 目录
 
