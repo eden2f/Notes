@@ -6,7 +6,7 @@
 
 ## 空间
 
-语雀（始于2024） : [https://www.yuque.com/eden2f/create](https://www.yuque.com/eden2f/create)
+语雀（始于2024） : [https://www.yuque.com/eden2f](https://www.yuque.com/eden2f)
 
 Gitee（始于2023） : [https://gitee.com/eden2f/notes](https://gitee.com/eden2f/notes)
 
@@ -15,6 +15,14 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 博客（始于2017） : [https://www.renzhen.online/](https://www.renzhen.online/)
 
 简书（始于2016） : [https://www.jianshu.com/u/34fd4f848a42](https://www.jianshu.com/u/34fd4f848a42)
+
+## 联系我
+
+💬 公众号｜灰气球
+
+![](https://eden-notes-pic-hosting.oss-cn-shenzhen.aliyuncs.com/notes/images/61cbad6ddaa15cf405f658fb3c8438a.jpg)
+
+分享创作、生活、理财的经验和感悟，交个朋友，一起成长。
 
 ## 介绍
 
