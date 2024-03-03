@@ -57,12 +57,14 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [JavaIO File类常用方法](<markdown/Java/Java SE/JavaIO File类常用方法.md>)
 * [Java Reflect反射机制](<markdown/Java/Java SE/Java Reflect反射机制.md>)
 * [Java Servlet多请求映射增强](<markdown/Java/Java SE/Java Servlet多请求映射增强.md>)
+* [JVM 垃圾收集器与内存分配策略](<markdown/Java/Java SE/JVM 垃圾收集器与内存分配策略.md>)
 
 * [Jackson parser LocalDataTime 异常](<markdown/Java/Java SE/Jackson parser LocalDataTime 异常.md>)
 * [Jackson JSON parse error](<markdown/Java/Java SE/Jackson JSON parse error.md>)
 
 #### Spring
 
+* [Spring Bean的生命周期](<markdown/Java/Spring/Spring Bean的生命周期.md>)
 * [Spring集成Jedis](markdown/Java/Spring/Spring%E9%9B%86%E6%88%90Jedis.md)
 * [Spring集成SpringMVC(构建Web应用程序)](markdown/Java/Spring/Spring集成SpringMVC(构建Web应用程序).md)
 * [Spring+SpringMVC集成SpringSecurity(SpringSecurity保护Web应用)](markdown/Java/Spring/Spring+SpringMVC集成SpringSecurity(SpringSecurity保护Web应用).md)
@@ -169,6 +171,8 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [Java 报表POI操作Excel](<markdown/其他/Java 报表POI操作Excel.md>)
 * [Refused to display '' in a frame because it set 'X-Frame-Options' to 'deny'](<markdown/其他/Refused to display '' in a frame because it set 'X-Frame-Options' to 'deny'.md>)
 * [网络编程概述](markdown/其他/网络编程概述.md)
+* [Navicat Premium 激活](<markdown/其他/Navicat Premium 激活.md>)
+* [密码管理 Bitwarden服务端部署文档](<markdown/其他/密码管理 Bitwarden服务端部署文档.md>)
 
 ### 🥗阅读
 
