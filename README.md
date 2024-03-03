@@ -69,6 +69,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [Spring集成Jedis](markdown/Java/Spring/Spring%E9%9B%86%E6%88%90Jedis.md)
 * [Spring集成SpringMVC(构建Web应用程序)](markdown/Java/Spring/Spring集成SpringMVC(构建Web应用程序).md)
 * [Spring+SpringMVC集成SpringSecurity(SpringSecurity保护Web应用)](markdown/Java/Spring/Spring+SpringMVC集成SpringSecurity(SpringSecurity保护Web应用).md)
+* [Spring StopWatch计时器](<markdown/Java/Spring/Spring StopWatch计时器.md>)
 * [SpringBoot集成Redis](markdown/Java/Spring/SpringBoot%E9%9B%86%E6%88%90Redis.md)
 * [SpringBoot集成Druid](markdown/Java/Spring/SpringBoot%E9%9B%86%E6%88%90Druid.md)
 * [SpringBoot集成SpringSecurity](markdown/Java/Spring/SpringBoot%E9%9B%86%E6%88%90SpringSecurity.md)
@@ -193,6 +194,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 
 ### 🥗阅读
 
+* [煽动家和思想家之间的区别](markdown/阅读/煽动家和思想家之间的区别.md)
 * [人性的弱点：改变千万人人生的一本书](markdown/阅读/人性的弱点：改变千万人人生的一本书.md)
 
 ## 参与贡献
