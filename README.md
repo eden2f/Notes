@@ -76,6 +76,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [SpringBoot集成Swagger](markdown/Java/Spring/SpringBoot集成Swagger.md)
 * [SpringCloud集成Feign](markdown/Java/Spring/SpringCloud集成Feign.md)
 * [SpringCloud集成Ribbon](markdown/Java/Spring/SpringCloud集成Ribbon.md)
+* [SpringCloud 自定义端云互联路由配置](<markdown/Java/Spring/SpringCloud 自定义端云互联路由配置.md>)
 
 #### Netty
 
@@ -188,6 +189,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [密码管理 Bitwarden服务端部署文档](<markdown/其他/密码管理 Bitwarden服务端部署文档.md>)
 * [数据结构与算法](markdown/其他/数据结构与算法.md)
 * [布隆过滤器](markdown/其他/布隆过滤器.md)
+* [PicGo集成Gitee搭建图床](markdown/其他/PicGo集成Gitee搭建图床.md)
 
 ### 🥗阅读
 
