@@ -84,6 +84,11 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [MySQL 全局锁、表锁、行锁](<markdown/中间件/MySQL/MySQL 全局锁、表锁、行锁.md>)
 * [MySQL 如何选择普通索引和唯一索引](<markdown/中间件/MySQL/MySQL 如何选择普通索引和唯一索引.md>)
 * [MySQL 索引](<markdown/中间件/MySQL/MySQL 索引.md>)
+* [MySQL 如何判断一个数据库是否出问题了](<markdown/中间件/MySQL/MySQL 如何判断一个数据库是否出问题了.md>)
+* [MySQL order by 需要注意什么](<markdown/中间件/MySQL/MySQL order by 需要注意什么.md>)
+* [MySQL join的使用与优化](<markdown/中间件/MySQL/MySQL join的使用与优化.md>)
+* [MySQL count(*)慢吗](<markdown/中间件/MySQL/MySQL count()慢吗.md>)
+* [MySQL insert的哪些事儿](<markdown/中间件/MySQL/MySQL insert的哪些事儿.md>)
 
 #### RocketMQ
 
@@ -101,6 +106,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [Ubuntu安装Tomcat](markdown/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/Linux/Ubuntu%E5%AE%89%E8%A3%85Tomcat.md)
 * [Ubuntu 安装Lua](<markdown/操作系统/Linux/Ubuntu 安装Lua.md>)
 * [Linux 安装Redis](<markdown/操作系统/Linux/Linux 安装Redis.md>)
+* [Deepin 安装MySQL](<markdown/操作系统/Linux/Deepin 安装MySQL.md>)
 
 #### Windows
 
