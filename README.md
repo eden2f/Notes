@@ -70,6 +70,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [Spring集成SpringMVC(构建Web应用程序)](markdown/Java/Spring/Spring集成SpringMVC(构建Web应用程序).md)
 * [Spring+SpringMVC集成SpringSecurity(SpringSecurity保护Web应用)](markdown/Java/Spring/Spring+SpringMVC集成SpringSecurity(SpringSecurity保护Web应用).md)
 * [Spring StopWatch计时器](<markdown/Java/Spring/Spring StopWatch计时器.md>)
+* [Spring 事件驱动 ApplicationListener的实现分析](<markdown/Java/Spring/Spring 事件驱动 ApplicationListener的实现分析.md>)
 * [SpringBoot集成Redis](markdown/Java/Spring/SpringBoot%E9%9B%86%E6%88%90Redis.md)
 * [SpringBoot集成Druid](markdown/Java/Spring/SpringBoot%E9%9B%86%E6%88%90Druid.md)
 * [SpringBoot集成SpringSecurity](markdown/Java/Spring/SpringBoot%E9%9B%86%E6%88%90SpringSecurity.md)
