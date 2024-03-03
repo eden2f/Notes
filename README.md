@@ -105,6 +105,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [Redis 内部数据结构详解(6)--skiplist](<markdown/中间件/Redis/Redis 内部数据结构详解(6)--skiplist.md>)
 * [Redis 内部数据结构详解(7)--intset](<markdown/中间件/Redis/Redis 内部数据结构详解(7)--intset>)
 * [基于Redis的分布式锁到底安全吗（上）](markdown/中间件/Redis/基于Redis的分布式锁到底安全吗（上）.md)
+* [基于Redis的分布式锁到底安全吗（下）](markdown/中间件/Redis/基于Redis的分布式锁到底安全吗（下）.md)
 
 #### Elasticsearch
 
@@ -181,6 +182,8 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [网络编程概述](markdown/其他/网络编程概述.md)
 * [Navicat Premium 激活](<markdown/其他/Navicat Premium 激活.md>)
 * [密码管理 Bitwarden服务端部署文档](<markdown/其他/密码管理 Bitwarden服务端部署文档.md>)
+* [数据结构与算法](markdown/其他/数据结构与算法.md)
+
 
 ### 🥗阅读
 
