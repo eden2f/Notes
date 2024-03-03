@@ -75,6 +75,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [SpringBoot集成SpringSecurity实现JWT认证](markdown/Java/Spring/SpringBoot%E9%9B%86%E6%88%90SpringSecurity%E5%AE%9E%E7%8E%B0JWT%E8%AE%A4%E8%AF%81.md)
 * [SpringBoot集成Swagger](markdown/Java/Spring/SpringBoot集成Swagger.md)
 * [SpringCloud集成Feign](markdown/Java/Spring/SpringCloud集成Feign.md)
+* [SpringCloud集成Ribbon](markdown/Java/Spring/SpringCloud集成Ribbon.md)
 
 #### Netty
 
@@ -188,8 +189,9 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [数据结构与算法](markdown/其他/数据结构与算法.md)
 * [布隆过滤器](markdown/其他/布隆过滤器.md)
 
-
 ### 🥗阅读
+
+* [人性的弱点：改变千万人人生的一本书](markdown/阅读/人性的弱点：改变千万人人生的一本书.md)
 
 ## 参与贡献
 
