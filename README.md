@@ -79,7 +79,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 #### MySQL
 
 * [MySQL UPDATE更新语法问题](<markdown/中间件/MySQL/MySQL UPDATE更新语法问题.md>)
-* [MySQL/MySQL 日志模块](<markdown/中间件/MySQL/MySQL 日志模块.md>)
+* [MySQL 日志模块](<markdown/中间件/MySQL/MySQL 日志模块.md>)
 
 #### RocketMQ
 
