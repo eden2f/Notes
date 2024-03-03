@@ -104,6 +104,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [Redis 内部数据结构详解(5)--quicklist](<markdown/中间件/Redis/Redis 内部数据结构详解(5)--quicklist>)
 * [Redis 内部数据结构详解(6)--skiplist](<markdown/中间件/Redis/Redis 内部数据结构详解(6)--skiplist.md>)
 * [Redis 内部数据结构详解(7)--intset](<markdown/中间件/Redis/Redis 内部数据结构详解(7)--intset>)
+* [基于Redis的分布式锁到底安全吗（上）](markdown/中间件/Redis/基于Redis的分布式锁到底安全吗（上）.md)
 
 #### Elasticsearch
 
