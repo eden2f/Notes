@@ -83,6 +83,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [MySQL 事务隔离](<markdown/中间件/MySQL/MySQL 事务隔离.md>)
 * [MySQL 全局锁、表锁、行锁](<markdown/中间件/MySQL/MySQL 全局锁、表锁、行锁.md>)
 * [MySQL 如何选择普通索引和唯一索引](<markdown/中间件/MySQL/MySQL 如何选择普通索引和唯一索引.md>)
+* [MySQL 索引](<markdown/中间件/MySQL/MySQL 索引.md>)
 
 #### RocketMQ
 
