@@ -58,6 +58,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [Java Reflect反射机制](<markdown/Java/Java SE/Java Reflect反射机制.md>)
 * [Java Servlet多请求映射增强](<markdown/Java/Java SE/Java Servlet多请求映射增强.md>)
 * [JVM 垃圾收集器与内存分配策略](<markdown/Java/Java SE/JVM 垃圾收集器与内存分配策略.md>)
+* [JVM 垃圾收集器日志及参数配置](<markdown/Java/Java SE/JVM 垃圾收集器日志及参数配置.md>)
 
 * [Jackson parser LocalDataTime 异常](<markdown/Java/Java SE/Jackson parser LocalDataTime 异常.md>)
 * [Jackson JSON parse error](<markdown/Java/Java SE/Jackson JSON parse error.md>)
@@ -181,8 +182,10 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [Refused to display '' in a frame because it set 'X-Frame-Options' to 'deny'](<markdown/其他/Refused to display '' in a frame because it set 'X-Frame-Options' to 'deny'.md>)
 * [网络编程概述](markdown/其他/网络编程概述.md)
 * [Navicat Premium 激活](<markdown/其他/Navicat Premium 激活.md>)
+* [JProfiler 激活](<markdown/其他/JProfiler 激活.md>)
 * [密码管理 Bitwarden服务端部署文档](<markdown/其他/密码管理 Bitwarden服务端部署文档.md>)
 * [数据结构与算法](markdown/其他/数据结构与算法.md)
+* [布隆过滤器](markdown/其他/布隆过滤器.md)
 
 
 ### 🥗阅读
