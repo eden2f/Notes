@@ -97,6 +97,9 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 #### Redis
 
 * [Jedis客户端HelloWorld](markdown/%E4%B8%AD%E9%97%B4%E4%BB%B6/Redis/Jedis%E5%AE%A2%E6%88%B7%E7%AB%AFHelloWorld.md)
+* [Redis 内部数据结构详解(1)--dict](<markdown/中间件/Redis/Redis 内部数据结构详解(1)--dict.md>)
+* [Redis 内部数据结构详解(2)--sds](<markdown/中间件/Redis/Redis 内部数据结构详解(2)--sds.md>)
+* [Redis 内部数据结构详解(3)--robj](<markdown/中间件/Redis/Redis 内部数据结构详解(3)--robj.md>)
 
 #### Elasticsearch
 
