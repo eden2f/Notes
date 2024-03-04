@@ -188,6 +188,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [Java 报表POI操作Excel](<markdown/其他/Java 报表POI操作Excel.md>)
 * [Refused to display '' in a frame because it set 'X-Frame-Options' to 'deny'](<markdown/其他/Refused to display '' in a frame because it set 'X-Frame-Options' to 'deny'.md>)
 * [网络编程概述](markdown/其他/网络编程概述.md)
+* [轮询、长轮询(comet)、长连接(SSE)、WebSocket](markdown/其他/轮询、长轮询(comet)、长连接(SSE)、WebSocket.md)
 * [Navicat Premium 激活](<markdown/其他/Navicat Premium 激活.md>)
 * [JProfiler 激活](<markdown/其他/JProfiler 激活.md>)
 * [密码管理 Bitwarden服务端部署文档](<markdown/其他/密码管理 Bitwarden服务端部署文档.md>)
@@ -197,6 +198,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 
 ### 🥗阅读
 
+* [滚雪球：巴菲特和他的财富人生](markdown/阅读/滚雪球：巴菲特和他的财富人生.md)
 * [煽动家和思想家之间的区别](markdown/阅读/煽动家和思想家之间的区别.md)
 * [人性的弱点：改变千万人人生的一本书](markdown/阅读/人性的弱点：改变千万人人生的一本书.md)
 
