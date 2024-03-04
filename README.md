@@ -62,6 +62,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 
 * [Jackson parser LocalDataTime 异常](<markdown/Java/Java SE/Jackson parser LocalDataTime 异常.md>)
 * [Jackson JSON parse error](<markdown/Java/Java SE/Jackson JSON parse error.md>)
+* [Java 单例模式实现(懒加载+线程安全)](<markdown/Java/Java SE/Java 单例模式实现(懒加载+线程安全).md>)
 
 #### Spring
 
