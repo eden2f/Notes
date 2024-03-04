@@ -102,6 +102,8 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 
 #### RocketMQ
 
+* [RocketMQ 快速上手](<markdown/中间件/RocketMQ/RocketMQ 快速上手.md>)
+
 #### Redis
 
 * [Jedis客户端HelloWorld](markdown/%E4%B8%AD%E9%97%B4%E4%BB%B6/Redis/Jedis%E5%AE%A2%E6%88%B7%E7%AB%AFHelloWorld.md)
