@@ -129,8 +129,8 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 
 #### Linux
 
-* [Ubuntu安装JDK](markdown/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/Linux/Ubuntu%E5%AE%89%E8%A3%85JDK.md)
-* [Ubuntu安装Tomcat](markdown/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/Linux/Ubuntu%E5%AE%89%E8%A3%85Tomcat.md)
+* [Ubuntu 安装JDK](<markdown/操作系统/Linux/Ubuntu 安装JDK.md>)
+* [Ubuntu 安装Tomcat](<markdown/操作系统/Linux/Ubuntu 安装Tomcat.md>)
 * [Ubuntu 安装Lua](<markdown/操作系统/Linux/Ubuntu 安装Lua.md>)
 * [Linux 安装Redis](<markdown/操作系统/Linux/Linux 安装Redis.md>)
 * [Deepin 安装MySQL](<markdown/操作系统/Linux/Deepin 安装MySQL.md>)
