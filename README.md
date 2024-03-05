@@ -105,6 +105,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 
 * [RocketMQ 快速上手](<markdown/中间件/RocketMQ/RocketMQ 快速上手.md>)
 * [RocketMQ Hello](<markdown/中间件/RocketMQ/RocketMQ Hello.md>)
+* [RocketMQ DefaultMQPullConsumer](<markdown/中间件/RocketMQ/RocketMQ DefaultMQPullConsumer.md>)
 
 #### Redis
 
