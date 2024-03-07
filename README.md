@@ -67,6 +67,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [Java内存模型FAQ（八）Final字段如何改变它们的值](<markdown/Java/Java SE/Java内存模型FAQ（八）Final字段如何改变它们的值.md>)
 * [Java内存模型FAQ（九）在新的Java内存模型中，final字段是如何工作的](<markdown/Java/Java SE/Java内存模型FAQ（九）在新的Java内存模型中，final字段是如何工作的.md>)
 * [Java内存模型FAQ（十）volatile是干什么用的](<markdown/Java/Java SE/Java内存模型FAQ（十）volatile是干什么用的.md>)
+* [Java内存模型FAQ（十一）新的内存模型是否修复了双重锁检查问题？](<markdown/Java/Java SE/Java内存模型FAQ（十一）新的内存模型是否修复了双重锁检查问题？.md>)
 * [JVM 垃圾收集器与内存分配策略](<markdown/Java/Java SE/JVM 垃圾收集器与内存分配策略.md>)
 * [JVM 垃圾收集器日志及参数配置](<markdown/Java/Java SE/JVM 垃圾收集器日志及参数配置.md>)
 
