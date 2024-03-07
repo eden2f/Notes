@@ -64,6 +64,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [Jackson parser LocalDataTime 异常](<markdown/Java/Java SE/Jackson parser LocalDataTime 异常.md>)
 * [Jackson JSON parse error](<markdown/Java/Java SE/Jackson JSON parse error.md>)
 * [Java 单例模式实现(懒加载+线程安全)](<markdown/Java/Java SE/Java 单例模式实现(懒加载+线程安全).md>)
+* [Java日志框架演进历程及特点：从JCL到SLF4J，Logback、Log4J与Log4J2的诞生以及JCL-Over-SLF4J的作用](<markdown/Java/Java SE/Java日志框架演进历程及特点：从JCL到SLF4J，Logback、Log4J与Log4J2的诞生以及JCL-Over-SLF4J的作用.md>)
 
 #### Spring
 
