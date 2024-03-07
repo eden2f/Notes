@@ -65,6 +65,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [Java内存模型FAQ（六）没有正确同步的含义是什么？](<markdown/Java/Java SE/Java内存模型FAQ（六）没有正确同步的含义是什么？.md>)
 * [Java内存模型FAQ（七）同步会干些什么呢](<markdown/Java/Java SE/Java内存模型FAQ（七）同步会干些什么呢.md>)
 * [Java内存模型FAQ（八）Final字段如何改变它们的值](<markdown/Java/Java SE/Java内存模型FAQ（八）Final字段如何改变它们的值.md>)
+* [Java内存模型FAQ（九）在新的Java内存模型中，final字段是如何工作的](<markdown/Java/Java SE/Java内存模型FAQ（九）在新的Java内存模型中，final字段是如何工作的.md>)
 * [JVM 垃圾收集器与内存分配策略](<markdown/Java/Java SE/JVM 垃圾收集器与内存分配策略.md>)
 * [JVM 垃圾收集器日志及参数配置](<markdown/Java/Java SE/JVM 垃圾收集器日志及参数配置.md>)
 
