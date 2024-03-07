@@ -60,6 +60,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [Java内存模型FAQ（一） 什么是内存模型](<markdown/Java/Java SE/Java内存模型FAQ（一） 什么是内存模型.md>)
 * [Java内存模型FAQ（二） 其他语言，像C++，也有内存模型吗？](<markdown/Java/Java SE/Java内存模型FAQ（二） 其他语言，像C++，也有内存模型吗？.md>)
 * [Java内存模型FAQ（三）JSR133是什么？](<markdown/Java/Java SE/Java内存模型FAQ（三）JSR133是什么？.md>)
+* [Java内存模型FAQ（四）重排序意味着什么？](<markdown/Java/Java SE/Java内存模型FAQ（四）重排序意味着什么？.md>)
 * [JVM 垃圾收集器与内存分配策略](<markdown/Java/Java SE/JVM 垃圾收集器与内存分配策略.md>)
 * [JVM 垃圾收集器日志及参数配置](<markdown/Java/Java SE/JVM 垃圾收集器日志及参数配置.md>)
 
