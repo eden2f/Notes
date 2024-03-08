@@ -68,6 +68,8 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [Java内存模型FAQ（九）在新的Java内存模型中，final字段是如何工作的](<markdown/Java/Java SE/Java内存模型FAQ（九）在新的Java内存模型中，final字段是如何工作的.md>)
 * [Java内存模型FAQ（十）volatile是干什么用的](<markdown/Java/Java SE/Java内存模型FAQ（十）volatile是干什么用的.md>)
 * [Java内存模型FAQ（十一）新的内存模型是否修复了双重锁检查问题？](<markdown/Java/Java SE/Java内存模型FAQ（十一）新的内存模型是否修复了双重锁检查问题？.md>)
+* [Java内存模型FAQ（十二）如果我需要写一个VM，我需要做些什么](<markdown/Java/Java SE/Java内存模型FAQ（十二）如果我需要写一个VM，我需要做些什么.md>)
+* [Java内存模型FAQ（十三）为什么我需要关注java内存模型](<markdown/Java/Java SE/Java内存模型FAQ（十三）为什么我需要关注java内存模型.md>)
 * [JVM 垃圾收集器与内存分配策略](<markdown/Java/Java SE/JVM 垃圾收集器与内存分配策略.md>)
 * [JVM 垃圾收集器日志及参数配置](<markdown/Java/Java SE/JVM 垃圾收集器日志及参数配置.md>)
 
@@ -121,6 +123,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [RocketMQ DefaultMQPushConsumer](<markdown/中间件/RocketMQ/RocketMQ DefaultMQPushConsumer.md>)
 * [RocketMQ 不同类型的生产者](<markdown/中间件/RocketMQ/RocketMQ 不同类型的生产者.md>)
 * [RocketMQ 队列读取位置信息的存储](<markdown/中间件/RocketMQ/RocketMQ 队列读取位置信息的存储.md>)
+* [RocketMQ 消息队列的核心 Broker](<markdown/中间件/RocketMQ/RocketMQ 消息队列的核心 Broker.md>)
 
 #### Redis
 
