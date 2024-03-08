@@ -1,4 +1,4 @@
-# Java Lambda 是如何实现的
+# Java Lambda是如何实现的
 
 > [引用 -> Java Lambda表达式 实现原理分析](https://blog.csdn.net/jiankunking/article/details/79825928)
 [引用 -> java8 探讨与分析匿名内部类、lambda表达式、方法引用的底层实现](https://segmentfault.com/a/1190000018607400)
