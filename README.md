@@ -55,6 +55,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [JavaIO File的引入](<markdown/Java/Java SE/JavaIO File的引入.md>)
 * [JavaIO File路径问题](<markdown/Java/Java SE/JavaIO File路径问题.md>)
 * [JavaIO File类常用方法](<markdown/Java/Java SE/JavaIO File类常用方法.md>)
+* [Java 8 ArrayList源码](<markdown/Java/Java SE/Java 8 ArrayList源码.md>)
 * [Java Reflect反射机制](<markdown/Java/Java SE/Java Reflect反射机制.md>)
 * [Java Servlet多请求映射增强](<markdown/Java/Java SE/Java Servlet多请求映射增强.md>)
 * [Java Lambda是如何实现的](<markdown/Java/Java SE/Java Lambda是如何实现的.md>)
