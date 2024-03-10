@@ -203,7 +203,6 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 
 ### 🍻其他
 
-* [常用 字符集 设置 UTF-8](<markdown/其他/常用 字符集 设置 UTF-8.md>)
 * 数据结构与算法
   * [数据结构与算法](markdown/其他/数据结构与算法/数据结构与算法.md)
   * [布隆过滤器](markdown/其他/数据结构与算法/布隆过滤器.md)
@@ -213,6 +212,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
   * [UEditor 文件上传源码解析](<markdown/其他/UEditor/UEditor 文件上传源码解析.md>)
   * [UEditor 实现图片自定义上传](<markdown/其他/UEditor/UEditor 实现图片自定义上传.md>)
   * [UEditor 图片在线管理问题修复](<markdown/其他/UEditor/UEditor 图片在线管理问题修复.md>)
+* [常用 字符集 设置 UTF-8](<markdown/其他/常用 字符集 设置 UTF-8.md>)
 * [OGNL 对象图导航语言](<markdown/其他/OGNL 对象图导航语言.md>)
 * [Java 报表POI操作Excel](<markdown/其他/Java 报表POI操作Excel.md>)
 * [Refused to display '' in a frame because it set 'X-Frame-Options' to 'deny'](<markdown/其他/Refused to display '' in a frame because it set 'X-Frame-Options' to 'deny'.md>)
