@@ -206,6 +206,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * 数据结构与算法
   * [数据结构与算法](markdown/其他/数据结构与算法/数据结构与算法.md)
   * [布隆过滤器](markdown/其他/数据结构与算法/布隆过滤器.md)
+  * [并查集 Java实现](<markdown/其他/数据结构与算法/并查集 Java实现.md>)
 * UEditor
   * [UEditor HelloWorld](<markdown/其他/UEditor/UEditor HelloWorld.md>)
   * [UEditor 服务端配置](<markdown/其他/UEditor/UEditor 服务端配置.md>)
