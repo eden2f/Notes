@@ -57,7 +57,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [JavaIO File类常用方法](<markdown/Java/Java SE/JavaIO File类常用方法.md>)
 * [Java Reflect反射机制](<markdown/Java/Java SE/Java Reflect反射机制.md>)
 * [Java Servlet多请求映射增强](<markdown/Java/Java SE/Java Servlet多请求映射增强.md>)
-* [Java Lambda 是如何实现的](<markdown/Java/Java SE/Java Lambda 是如何实现的.md>)
+* [Java Lambda是如何实现的](<markdown/Java/Java SE/Java Lambda是如何实现的.md>)
 * [Java内存模型FAQ（一） 什么是内存模型](<markdown/Java/Java SE/Java内存模型FAQ（一） 什么是内存模型.md>)
 * [Java内存模型FAQ（二） 其他语言，像C++，也有内存模型吗？](<markdown/Java/Java SE/Java内存模型FAQ（二） 其他语言，像C++，也有内存模型吗？.md>)
 * [Java内存模型FAQ（三）JSR133是什么？](<markdown/Java/Java SE/Java内存模型FAQ（三）JSR133是什么？.md>)
@@ -204,6 +204,9 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 ### 🍻其他
 
 * [常用 字符集 设置 UTF-8](<markdown/其他/常用 字符集 设置 UTF-8.md>)
+* 数据结构与算法
+  * [数据结构与算法](markdown/其他/数据结构与算法/数据结构与算法.md)
+  * [布隆过滤器](markdown/其他/数据结构与算法/布隆过滤器.md)
 * UEditor
   * [UEditor HelloWorld](<markdown/其他/UEditor/UEditor HelloWorld.md>)
   * [UEditor 服务端配置](<markdown/其他/UEditor/UEditor 服务端配置.md>)
@@ -215,12 +218,14 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [Refused to display '' in a frame because it set 'X-Frame-Options' to 'deny'](<markdown/其他/Refused to display '' in a frame because it set 'X-Frame-Options' to 'deny'.md>)
 * [网络编程概述](markdown/其他/网络编程概述.md)
 * [轮询、长轮询(comet)、长连接(SSE)、WebSocket](markdown/其他/轮询、长轮询(comet)、长连接(SSE)、WebSocket.md)
-* [Navicat Premium 激活](<markdown/其他/Navicat Premium 激活.md>)
-* [JProfiler 激活](<markdown/其他/JProfiler 激活.md>)
 * [密码管理 Bitwarden服务端部署文档](<markdown/其他/密码管理 Bitwarden服务端部署文档.md>)
-* [数据结构与算法](markdown/其他/数据结构与算法.md)
-* [布隆过滤器](markdown/其他/布隆过滤器.md)
 * [PicGo集成Gitee搭建图床](markdown/其他/PicGo集成Gitee搭建图床.md)
+* 开发工具
+  * [JProfiler 激活](<markdown/其他/开发工具/JProfiler 激活.md>)
+  * [Navicat Premium 激活](<markdown/其他/开发工具/Navicat Premium 激活.md>)
+* 项目管理
+  * [项目规划（4）](markdown/其他/项目管理/项目规划（4）.md)
+  * [项目规划（5）](markdown/其他/项目管理/项目规划（5）.md)
 
 ### 🥗阅读
 
