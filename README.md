@@ -58,6 +58,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [Java Reflect反射机制](<markdown/Java/Java SE/Java Reflect反射机制.md>)
 * [Java Servlet多请求映射增强](<markdown/Java/Java SE/Java Servlet多请求映射增强.md>)
 * [Java Lambda是如何实现的](<markdown/Java/Java SE/Java Lambda是如何实现的.md>)
+* [Java ThreadLocal实现](<markdown/Java/Java SE/Java ThreadLocal实现.md>)
 * [Java内存模型FAQ（一） 什么是内存模型](<markdown/Java/Java SE/Java内存模型FAQ（一） 什么是内存模型.md>)
 * [Java内存模型FAQ（二） 其他语言，像C++，也有内存模型吗？](<markdown/Java/Java SE/Java内存模型FAQ（二） 其他语言，像C++，也有内存模型吗？.md>)
 * [Java内存模型FAQ（三）JSR133是什么？](<markdown/Java/Java SE/Java内存模型FAQ（三）JSR133是什么？.md>)
