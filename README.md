@@ -84,6 +84,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 #### Spring
 
 * [Spring Bean的生命周期](<markdown/Java/Spring/Spring Bean的生命周期.md>)
+* [Spring Bean的循环依赖及解决方式](<markdown/Java/Spring/Spring Bean的循环依赖及解决方式.md>)
 * [Spring集成Jedis](markdown/Java/Spring/Spring%E9%9B%86%E6%88%90Jedis.md)
 * [Spring集成SpringMVC(构建Web应用程序)](markdown/Java/Spring/Spring集成SpringMVC(构建Web应用程序).md)
 * [Spring+SpringMVC集成SpringSecurity(SpringSecurity保护Web应用)](markdown/Java/Spring/Spring+SpringMVC集成SpringSecurity(SpringSecurity保护Web应用).md)
@@ -96,6 +97,8 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [SpringBoot集成SpringSecurity实现JWT认证](markdown/Java/Spring/SpringBoot%E9%9B%86%E6%88%90SpringSecurity%E5%AE%9E%E7%8E%B0JWT%E8%AE%A4%E8%AF%81.md)
 * [SpringBoot集成Swagger](markdown/Java/Spring/SpringBoot集成Swagger.md)
 * [SpringBoot 项目traceId生成和日志打印](<markdown/Java/Spring/SpringBoot 项目traceId生成和日志打印.md>)
+* [SpringBoot 应用启动原理(一) 将启动脚本嵌入Jar](<markdown/Java/Java SE/SpringBoot 应用启动原理(一) 将启动脚本嵌入Jar.md>)
+* [SpringBoot 应用启动原理(二) 扩展URLClassLoader实现嵌套Jar加载](<markdown/Java/Spring/SpringBoot 应用启动原理(二) 扩展URLClassLoader实现嵌套Jar加载.md>)
 * [SpringCloud集成Feign](markdown/Java/Spring/SpringCloud集成Feign.md)
 * [SpringCloud集成Ribbon](markdown/Java/Spring/SpringCloud集成Ribbon.md)
 * [SpringCloud 自定义端云互联路由配置](<markdown/Java/Spring/SpringCloud 自定义端云互联路由配置.md>)
@@ -223,12 +226,15 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [轮询、长轮询(comet)、长连接(SSE)、WebSocket](markdown/其他/轮询、长轮询(comet)、长连接(SSE)、WebSocket.md)
 * [密码管理 Bitwarden服务端部署文档](<markdown/其他/密码管理 Bitwarden服务端部署文档.md>)
 * [PicGo集成Gitee搭建图床](markdown/其他/PicGo集成Gitee搭建图床.md)
+* [微信公众号后台服务 WeixinMPSaaS](<markdown/其他/微信公众号后台服务 WeixinMPSaaS.md>)
 * 开发工具
   * [JProfiler 激活](<markdown/其他/开发工具/JProfiler 激活.md>)
   * [Navicat Premium 激活](<markdown/其他/开发工具/Navicat Premium 激活.md>)
 * 项目管理
-  * [项目规划（4）](markdown/其他/项目管理/项目规划（4）.md)
-  * [项目规划（5）](markdown/其他/项目管理/项目规划（5）.md)
+  * PMP
+    * [PMP考点思维导图完整版](markdown/其他/项目管理/PMP/PMP考点思维导图完整版.md)
+    * [项目规划（4）](markdown/其他/项目管理/PMP/项目规划（4）.md)
+    * [项目规划（5）](markdown/其他/项目管理/PMP/项目规划（5）.md)
 
 ### 🥗阅读
 
