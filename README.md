@@ -148,6 +148,9 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 
 #### Elasticsearch
 
+* [ElasticSearch Query与Filter之间的区别](<markdown/中间件/ElasticSearch/ElasticSearch Query与Filter之间的区别.md>)
+* [ElasticSearch 复合查询 Compound queries](<markdown/中间件/ElasticSearch/ElasticSearch 复合查询 Compound queries.md>)
+
 ### 🍳操作系统
 
 #### Linux
