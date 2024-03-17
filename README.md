@@ -12,15 +12,13 @@ Gitee（始于2023） : [https://gitee.com/eden2f/notes](https://gitee.com/eden2
 
 Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/eden2f/Notes)
 
+公众号（始于2020） : [https://mp.weixin.qq.com/s/UkxK88d5tJD8C7V_V-JDZw](https://mp.weixin.qq.com/s/UkxK88d5tJD8C7V_V-JDZw)
+
 博客（始于2017） : [https://www.renzhen.online/](https://www.renzhen.online/)
 
 简书（始于2016） : [https://www.jianshu.com/u/34fd4f848a42](https://www.jianshu.com/u/34fd4f848a42)
 
 ## 联系我
-
-💬 公众号｜灰气球
-
-![](https://eden-notes-pic-hosting.oss-cn-shenzhen.aliyuncs.com/notes/images/61cbad6ddaa15cf405f658fb3c8438a.jpg)
 
 分享创作、生活、理财的经验和感悟，交个朋友，一起成长。
 
@@ -80,6 +78,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [Jackson JSON parse error](<markdown/Java/Java SE/Jackson JSON parse error.md>)
 * [Java 单例模式实现(懒加载+线程安全)](<markdown/Java/Java SE/Java 单例模式实现(懒加载+线程安全).md>)
 * [Java日志框架演进历程及特点：从JCL到SLF4J，Logback、Log4J与Log4J2的诞生以及JCL-Over-SLF4J的作用](<markdown/Java/Java SE/Java日志框架演进历程及特点：从JCL到SLF4J，Logback、Log4J与Log4J2的诞生以及JCL-Over-SLF4J的作用.md>)
+* [Mybatis 代码生成器Mybatis-Generator使用详解](<markdown/Java/Java SE/Mybatis 代码生成器Mybatis-Generator使用详解.md>)
 
 #### Spring
 
@@ -150,6 +149,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 
 * [ElasticSearch Query与Filter之间的区别](<markdown/中间件/ElasticSearch/ElasticSearch Query与Filter之间的区别.md>)
 * [ElasticSearch 复合查询 Compound queries](<markdown/中间件/ElasticSearch/ElasticSearch 复合查询 Compound queries.md>)
+* [ElasticSearch 查询和筛选](<markdown/中间件/ElasticSearch/ElasticSearch 查询和筛选.md>)
 
 ### 🍳操作系统
 
@@ -215,6 +215,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
   * [数据结构与算法](markdown/其他/数据结构与算法/数据结构与算法.md)
   * [布隆过滤器](markdown/其他/数据结构与算法/布隆过滤器.md)
   * [并查集 Java实现](<markdown/其他/数据结构与算法/并查集 Java实现.md>)
+* [Nginx 阻止对未绑定域名的访问](<markdown/其他/Nginx 阻止对未绑定域名的访问.md>)
 * UEditor
   * [UEditor HelloWorld](<markdown/其他/UEditor/UEditor HelloWorld.md>)
   * [UEditor 服务端配置](<markdown/其他/UEditor/UEditor 服务端配置.md>)
