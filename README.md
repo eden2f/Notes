@@ -69,6 +69,8 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [Java内存模型FAQ（十三）为什么我需要关注java内存模型](<markdown/Java/Java SE/Java内存模型FAQ（十三）为什么我需要关注java内存模型.md>)
 * [JVM 垃圾收集器与内存分配策略](<markdown/Java/Java SE/JVM 垃圾收集器与内存分配策略.md>)
 * [JVM 垃圾收集器日志及参数配置](<markdown/Java/Java SE/JVM 垃圾收集器日志及参数配置.md>)
+* [JVM 类加载的过程](<markdown/Java/Java SE/JVM 类加载的过程.md>)
+* [JVM 类加载器](<markdown/Java/Java SE/JVM 类加载器.md>)
 
 * [Jackson parser LocalDataTime 异常](<markdown/Java/Java SE/Jackson parser LocalDataTime 异常.md>)
 * [Jackson JSON parse error](<markdown/Java/Java SE/Jackson JSON parse error.md>)
@@ -116,6 +118,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [MySQL join的使用与优化](<markdown/中间件/MySQL/MySQL join的使用与优化.md>)
 * [MySQL count(*)慢吗](<markdown/中间件/MySQL/MySQL count()慢吗.md>)
 * [MySQL insert的哪些事儿](<markdown/中间件/MySQL/MySQL insert的哪些事儿.md>)
+* [MySQL EXPLAIN Using intersect 交集](<markdown/中间件/MySQL/MySQL EXPLAIN Using intersect 交集.md>)
 
 #### RocketMQ
 
@@ -148,6 +151,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [ElasticSearch 复合查询 Compound queries](<markdown/中间件/ElasticSearch/ElasticSearch 复合查询 Compound queries.md>)
 * [ElasticSearch 查询和筛选](<markdown/中间件/ElasticSearch/ElasticSearch 查询和筛选.md>)
 * [ElasticSearch 安装中文分词器 IK Analysis](<markdown/中间件/ElasticSearch/ElasticSearch 安装中文分词器 IK Analysis.md>)
+* [ElasticSearch 设置账号密码](<markdown/中间件/ElasticSearch/ElasticSearch 设置账号密码.md>)
 
 ### 🍳操作系统
 
@@ -240,6 +244,8 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 
 ### 🥗阅读
 
+
+* [黑天鹅：如何应对不可预知的未来](markdown/阅读/黑天鹅：如何应对不可预知的未来.md)
 * [滚雪球：巴菲特和他的财富人生](markdown/阅读/滚雪球：巴菲特和他的财富人生.md)
 * [煽动家和思想家之间的区别](markdown/阅读/煽动家和思想家之间的区别.md)
 * [人性的弱点：改变千万人人生的一本书](markdown/阅读/人性的弱点：改变千万人人生的一本书.md)
