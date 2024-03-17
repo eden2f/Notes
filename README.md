@@ -87,6 +87,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [Spring集成Jedis](markdown/Java/Spring/Spring%E9%9B%86%E6%88%90Jedis.md)
 * [Spring集成SpringMVC(构建Web应用程序)](markdown/Java/Spring/Spring集成SpringMVC(构建Web应用程序).md)
 * [Spring+SpringMVC集成SpringSecurity(SpringSecurity保护Web应用)](markdown/Java/Spring/Spring+SpringMVC集成SpringSecurity(SpringSecurity保护Web应用).md)
+* [Spring集成Mybatis的异常处理](<markdown/Java/Java SE/Spring集成Mybatis的异常处理.md>)
 * [Spring StopWatch计时器](<markdown/Java/Spring/Spring StopWatch计时器.md>)
 * [Spring 事件驱动 ApplicationListener的实现分析](<markdown/Java/Spring/Spring 事件驱动 ApplicationListener的实现分析.md>)
 * [Spring SpEL表达式语言](<markdown/Java/Spring/Spring SpEL表达式语言.md>)
@@ -121,6 +122,8 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [MySQL count(*)慢吗](<markdown/中间件/MySQL/MySQL count()慢吗.md>)
 * [MySQL insert的哪些事儿](<markdown/中间件/MySQL/MySQL insert的哪些事儿.md>)
 * [MySQL EXPLAIN Using intersect 交集](<markdown/中间件/MySQL/MySQL EXPLAIN Using intersect 交集.md>)
+* [MySQL 不可见索引VISIBLE和INVISIBLE](<markdown/中间件/MySQL/MySQL 不可见索引VISIBLE和INVISIBLE.md>)
+* [MySQL 类型隐式替换导致精度丢失](<markdown/中间件/MySQL/MySQL 类型隐式替换导致精度丢失.md>)
 
 #### RocketMQ
 
@@ -155,6 +158,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [ElasticSearch 查询和筛选](<markdown/中间件/ElasticSearch/ElasticSearch 查询和筛选.md>)
 * [ElasticSearch 安装中文分词器 IK Analysis](<markdown/中间件/ElasticSearch/ElasticSearch 安装中文分词器 IK Analysis.md>)
 * [ElasticSearch 设置账号密码](<markdown/中间件/ElasticSearch/ElasticSearch 设置账号密码.md>)
+* [ElasticSearch存储设计与MySQL数据同步方案](markdown/中间件/ElasticSearch/ElasticSearch存储设计与MySQL数据同步方案.md)
 
 ### 🍳操作系统
 
@@ -247,7 +251,9 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 
 ### 🥗阅读
 
+[穷查理宝典：查理芒格智慧箴言录](markdown/阅读/穷查理宝典：查理芒格智慧箴言录.md)
 * [黑天鹅：如何应对不可预知的未来](markdown/阅读/黑天鹅：如何应对不可预知的未来.md)
+* [墨菲定律](markdown/阅读/墨菲定律.md)
 * [滚雪球：巴菲特和他的财富人生](markdown/阅读/滚雪球：巴菲特和他的财富人生.md)
 * [煽动家和思想家之间的区别](markdown/阅读/煽动家和思想家之间的区别.md)
 * [人性的弱点：改变千万人人生的一本书](markdown/阅读/人性的弱点：改变千万人人生的一本书.md)
