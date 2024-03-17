@@ -91,6 +91,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [SpringBoot集成SpringSecurity](markdown/Java/Spring/SpringBoot%E9%9B%86%E6%88%90SpringSecurity.md)
 * [SpringBoot集成SpringSecurity实现JWT认证](markdown/Java/Spring/SpringBoot%E9%9B%86%E6%88%90SpringSecurity%E5%AE%9E%E7%8E%B0JWT%E8%AE%A4%E8%AF%81.md)
 * [SpringBoot集成Swagger](markdown/Java/Spring/SpringBoot集成Swagger.md)
+* [SpringBoot集成SpringDataElasticsearch](markdown/Java/Spring/SpringBoot集成SpringDataElasticsearch.md)
 * [SpringBoot 项目traceId生成和日志打印](<markdown/Java/Spring/SpringBoot 项目traceId生成和日志打印.md>)
 * [SpringBoot 应用启动原理(一) 将启动脚本嵌入Jar](<markdown/Java/Java SE/SpringBoot 应用启动原理(一) 将启动脚本嵌入Jar.md>)
 * [SpringBoot 应用启动原理(二) 扩展URLClassLoader实现嵌套Jar加载](<markdown/Java/Spring/SpringBoot 应用启动原理(二) 扩展URLClassLoader实现嵌套Jar加载.md>)
@@ -146,6 +147,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [ElasticSearch Query与Filter之间的区别](<markdown/中间件/ElasticSearch/ElasticSearch Query与Filter之间的区别.md>)
 * [ElasticSearch 复合查询 Compound queries](<markdown/中间件/ElasticSearch/ElasticSearch 复合查询 Compound queries.md>)
 * [ElasticSearch 查询和筛选](<markdown/中间件/ElasticSearch/ElasticSearch 查询和筛选.md>)
+* [ElasticSearch 安装中文分词器 IK Analysis](<markdown/中间件/ElasticSearch/ElasticSearch 安装中文分词器 IK Analysis.md>)
 
 ### 🍳操作系统
 
