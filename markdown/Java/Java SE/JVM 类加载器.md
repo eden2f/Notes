@@ -12,7 +12,7 @@ Java 虚拟机设计团队有意把类加载阶段中的 “通过一个类的�
 双亲委派模型要求除了顶层的启动类加载器外，其余的类加载器都应有自己的父类加载器。不过这里类加载器之间的父子关系一般不是以继承（Inheritance）的关系来实现的，而是通常使用组合（Composition）关系来复用父加载器的代码。
 强调一下 “通常” 一词, 类加载器的双亲委派模型在 JDK 1. 2 时期被引入，并被广泛应用于此后几乎所有的 Java 程序中，但它并不是一个具有强制性约束力的模型，而是 Java 设计者们推荐给开发者的一种类加载器实现的最佳实践。
 双亲委派模型的工作过程是：如果一个类加载器收到了类加载的请求，它首先不会自己去尝试加载这个类，而是把这个请求委派给父类加载器去完成，每一个层次的类加载器都是如此，因此所有的加载请求最终都应该传送到最顶层的启动类加载器中，只有当父加载器反馈自己无法完成这个加载请求（它的搜索范围中没有找到所需的类）时，子加载器才会尝试自己去完成加载。
-![](https://gitee.com/eden2f/ImageHosting/raw/master/imgs/20210429161833.jpg#id=MC8k0&originHeight=397&originWidth=797&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
+![](https://eden-notes-pic-hosting.oss-cn-shenzhen.aliyuncs.com/notes/images/20240317194150.png#id=Q7TWG&originHeight=397&originWidth=797&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
 ## 双亲委派模型的好处
 使用双亲委派模型来组织类加载器之间的关系，一个显而易见的好处就是 Java 中的类随着它的类加载器一起具备了一种带有优先级的层次关系。例如类 java.lang.Object，它存放在 rt.jar 之中，无论哪一个类加载器要加载这个类，最终都是委派给处于模型最顶端的启动类加载器进行加载，因此 Object 类在程序的各种类加载器环境中都能够保证是同一个类。反之，如果没有使用双亲委派模型，都由各个类加载器自行去加载的话，如果用户自己也编写了一个名为 java.lang.Object 的类，并放在程序的 ClassPath 中，那系统中就会出现多个不同的 Object 类，Java 类型体系中最基础的行为也就无从 保证，应用程序将会变得一片混乱。如果读者有兴趣的话，可以尝试去写一个与 rt.jar 类库中已有类重名的 Java 类，将会发现它可以正常编译，但永远无法被加载运行。
 ## 破坏双亲委派模型
@@ -27,7 +27,7 @@ Java 虚拟机设计团队有意把类加载阶段中的 “通过一个类的�
 Java 中有一个 SPI 机制，全称是 Service Provider Interface，是 Java 提供的一套用来被第三方实现或者扩展的 API，它可以用来启用框架扩展和替换组件。拿我们常用的数据库驱动加载做个引子, 在使用 JDBC 写程序之前，通常会调用`Class.forName("com.mysql.jdbc.Driver")`，用于加载所需要的驱动类。
 在新版本中, 即使删除了 Class.forName 这一行代码，也能加载到正确的驱动类, 因为 `mysql-connector-java-8.0.15.jar!/META-INF/services/java.sql.Driver`  的内容是 `com.mysql.cj.jdbc.Driver` .
 通过在 META-INF/services 目录下，创建一个以接口全限定名为命名的文件（内容为实现类的全限定名），即可自动加载这一种实现，这就是 SPI。
-![](https://gitee.com/eden2f/ImageHosting/raw/master/imgs/20210429165318.jpg#id=JU8Xd&originHeight=268&originWidth=756&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
+![](https://eden-notes-pic-hosting.oss-cn-shenzhen.aliyuncs.com/notes/images/20240317194216.png#id=G4VOs&originHeight=268&originWidth=756&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
 SPI 实际上是“基于接口的编程＋策略模式＋配置文件”组合实现的动态加载机制，主要使用 java.util.ServiceLoader 类进行动态装载。
 java.sql.DriverManager 类和 java.util.ServiceLoader 类都是属于 rt.jar 。它们的类加载器是 Bootstrap ClassLoader，也就是最上层的那个。而具体的数据库驱动，却属于业务代码，这个启动类加载器是无法加载的。现在当前类加载器没有能力去做这件事情，怎么办？
 ```java
