@@ -4,7 +4,8 @@
 《深入浅出Java虚拟机》- 李国
 
 ## 前言
-Java 虚拟机中类加载的全过程，即加载、验证、准备、解析和初始化, 这五个阶段所执行的具体动作。![](https://gitee.com/eden2f/ImageHosting/raw/master/imgs/20210428231830.png#id=R7acf&originHeight=541&originWidth=630&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
+Java 虚拟机中类加载的全过程，即加载、验证、准备、解析和初始化, 这五个阶段所执行的具体动作
+![](https://eden-notes-pic-hosting.oss-cn-shenzhen.aliyuncs.com/notes/images/20240317193508.png#id=Wki0N&originHeight=541&originWidth=630&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
 ## 加载
 “加载”（ Loading）阶段是整个“ 类加载”（ Class Loading）过程中的一个阶段。在加载阶段，Java 虚拟机需要完成以下三件事情：
 1）通过一个类的全限定名来获取定义此类的二进制字节流。
@@ -37,4 +38,4 @@ Java 语言本身是相对安全的编程语言（ 起码对于 C/ C++ 来说是
 ## 初始化
 类的初始化阶段是类加载过程的最后一个步骤，之前介绍的几个类加载的动作里，除了在加载阶段用户应用程序可以通过自定义类加载器的方式局部参与外，其余动作都完全由 Java 虚拟机来主导控制。直到初始化阶段， Java 虚拟机才真正开始执行类中编写的 Java 程序代码，将主导权移交给应用程序。
 进行准备阶段时，变量已经赋过一次系统要求的初始零值，而在初始化阶段，则会根据程序员通过程序编码制定的 主观计划去初始化类变量和其他资源。我们也可以从另外一种更直接的形式来表达：初始化阶段就是执行类构造器< clinit>() 方法的过程。
-![](https://gitee.com/eden2f/ImageHosting/raw/master/imgs/20210428231749.png#id=J2lJE&originHeight=561&originWidth=750&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
+![](https://eden-notes-pic-hosting.oss-cn-shenzhen.aliyuncs.com/notes/images/20240317193812.png#id=xLV5i&originHeight=561&originWidth=750&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
