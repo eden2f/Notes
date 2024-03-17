@@ -18,10 +18,6 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 
 简书（始于2016） : [https://www.jianshu.com/u/34fd4f848a42](https://www.jianshu.com/u/34fd4f848a42)
 
-## 联系我
-
-分享创作、生活、理财的经验和感悟，交个朋友，一起成长。
-
 ## 介绍
 
 |食谱|  类目   | 描述  | 项目 |
