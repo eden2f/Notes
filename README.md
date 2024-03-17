@@ -76,7 +76,9 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [Jackson JSON parse error](<markdown/Java/Java SE/Jackson JSON parse error.md>)
 * [Java 单例模式实现(懒加载+线程安全)](<markdown/Java/Java SE/Java 单例模式实现(懒加载+线程安全).md>)
 * [Java日志框架演进历程及特点：从JCL到SLF4J，Logback、Log4J与Log4J2的诞生以及JCL-Over-SLF4J的作用](<markdown/Java/Java SE/Java日志框架演进历程及特点：从JCL到SLF4J，Logback、Log4J与Log4J2的诞生以及JCL-Over-SLF4J的作用.md>)
+* [Java Spring Web项目请求日志打印的4种实现](<markdown/Java/Java SE/Java Spring Web项目请求日志打印的4种实现>)
 * [Mybatis 代码生成器Mybatis-Generator使用详解](<markdown/Java/Java SE/Mybatis 代码生成器Mybatis-Generator使用详解.md>)
+* [持久化延时任务框架 common-schedule](<markdown/Java/Java SE/持久化延时任务框架 common-schedule.md>)
 
 #### Spring
 
@@ -144,6 +146,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [Redis 内部数据结构详解(7)--intset](<markdown/中间件/Redis/Redis 内部数据结构详解(7)--intset>)
 * [基于Redis的分布式锁到底安全吗（上）](markdown/中间件/Redis/基于Redis的分布式锁到底安全吗（上）.md)
 * [基于Redis的分布式锁到底安全吗（下）](markdown/中间件/Redis/基于Redis的分布式锁到底安全吗（下）.md)
+* [Redis BigKey的影响及相关工具](<markdown/中间件/Redis/Redis BigKey的影响及相关工具.md>)
 
 #### Elasticsearch
 
@@ -243,7 +246,6 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
     * [项目规划（5）](markdown/其他/项目管理/PMP/项目规划（5）.md)
 
 ### 🥗阅读
-
 
 * [黑天鹅：如何应对不可预知的未来](markdown/阅读/黑天鹅：如何应对不可预知的未来.md)
 * [滚雪球：巴菲特和他的财富人生](markdown/阅读/滚雪球：巴菲特和他的财富人生.md)
