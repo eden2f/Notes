@@ -90,6 +90,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [Spring集成Mybatis的异常处理](<markdown/Java/Java SE/Spring集成Mybatis的异常处理.md>)
 * [Spring StopWatch计时器](<markdown/Java/Spring/Spring StopWatch计时器.md>)
 * [Spring 事件驱动 ApplicationListener的实现分析](<markdown/Java/Spring/Spring 事件驱动 ApplicationListener的实现分析.md>)
+* [SpringStateMachine 用状态机控制业务状态扭转](<markdown/Java/Spring/SpringStateMachine 用状态机控制业务状态扭转.md>)
 * [Spring SpEL表达式语言](<markdown/Java/Spring/Spring SpEL表达式语言.md>)
 * [SpringBoot集成Redis](markdown/Java/Spring/SpringBoot%E9%9B%86%E6%88%90Redis.md)
 * [SpringBoot集成Druid](markdown/Java/Spring/SpringBoot%E9%9B%86%E6%88%90Druid.md)
