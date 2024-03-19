@@ -171,6 +171,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [Ubuntu 安装Lua](<markdown/操作系统/Linux/Ubuntu 安装Lua.md>)
 * [Linux 安装Redis](<markdown/操作系统/Linux/Linux 安装Redis.md>)
 * [Deepin 安装MySQL](<markdown/操作系统/Linux/Deepin 安装MySQL.md>)
+* [Shell 一个简单好用的程序管理脚本](<markdown/操作系统/Linux/Shell 一个简单好用的程序管理脚本.md>)
 
 #### Windows
 
@@ -245,6 +246,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * 开发工具
   * [JProfiler 激活](<markdown/其他/开发工具/JProfiler 激活.md>)
   * [Navicat Premium 激活](<markdown/其他/开发工具/Navicat Premium 激活.md>)
+  * [StartUML 提示Unregistered Version解决](<markdown/其他/开发工具/StartUML 提示Unregistered Version解决.md>)
 * 项目管理
   * PMP
     * [PMP考点思维导图完整版](markdown/其他/项目管理/PMP/PMP考点思维导图完整版.md)
