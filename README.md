@@ -54,6 +54,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [Java Servlet多请求映射增强](<markdown/Java/Java SE/Java Servlet多请求映射增强.md>)
 * [Java Lambda是如何实现的](<markdown/Java/Java SE/Java Lambda是如何实现的.md>)
 * [Java ThreadLocal实现](<markdown/Java/Java SE/Java ThreadLocal实现.md>)
+* [Java 运行程序至少会创建几个线程](<markdown/Java/Java SE/Java 运行程序至少会创建几个线程.md>)
 * [Java内存模型FAQ（一） 什么是内存模型](<markdown/Java/Java SE/Java内存模型FAQ（一） 什么是内存模型.md>)
 * [Java内存模型FAQ（二） 其他语言，像C++，也有内存模型吗？](<markdown/Java/Java SE/Java内存模型FAQ（二） 其他语言，像C++，也有内存模型吗？.md>)
 * [Java内存模型FAQ（三）JSR133是什么？](<markdown/Java/Java SE/Java内存模型FAQ（三）JSR133是什么？.md>)
@@ -76,9 +77,10 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [Jackson JSON parse error](<markdown/Java/Java SE/Jackson JSON parse error.md>)
 * [Java 单例模式实现(懒加载+线程安全)](<markdown/Java/Java SE/Java 单例模式实现(懒加载+线程安全).md>)
 * [Java日志框架演进历程及特点：从JCL到SLF4J，Logback、Log4J与Log4J2的诞生以及JCL-Over-SLF4J的作用](<markdown/Java/Java SE/Java日志框架演进历程及特点：从JCL到SLF4J，Logback、Log4J与Log4J2的诞生以及JCL-Over-SLF4J的作用.md>)
-* [Java Spring Web项目请求日志打印的4种实现](<markdown/Java/Java SE/Java Spring Web项目请求日志打印的4种实现>)
+* [Java Spring Web项目请求日志打印的4种实现](<markdown/Java/Java SE/Java Spring Web项目请求日志打印的4种实现.md>)
 * [Mybatis 代码生成器Mybatis-Generator使用详解](<markdown/Java/Java SE/Mybatis 代码生成器Mybatis-Generator使用详解.md>)
 * [持久化延时任务框架 common-schedule](<markdown/Java/Java SE/持久化延时任务框架 common-schedule.md>)
+* [Java 异常处理中在finally里面写return会怎么样](<markdown/Java/Java SE/Java 异常处理中在finally里面写return会怎么样.md>)
 
 #### Spring
 
@@ -90,8 +92,8 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [Spring集成Mybatis的异常处理](<markdown/Java/Java SE/Spring集成Mybatis的异常处理.md>)
 * [Spring StopWatch计时器](<markdown/Java/Spring/Spring StopWatch计时器.md>)
 * [Spring 事件驱动 ApplicationListener的实现分析](<markdown/Java/Spring/Spring 事件驱动 ApplicationListener的实现分析.md>)
-* [SpringStateMachine 用状态机控制业务状态扭转](<markdown/Java/Spring/SpringStateMachine 用状态机控制业务状态扭转.md>)
 * [Spring SpEL表达式语言](<markdown/Java/Spring/Spring SpEL表达式语言.md>)
+* [SpringStateMachine 用状态机控制业务状态扭转](<markdown/Java/Spring/SpringStateMachine 用状态机控制业务状态扭转.md>)
 * [SpringBoot集成Redis](markdown/Java/Spring/SpringBoot%E9%9B%86%E6%88%90Redis.md)
 * [SpringBoot集成Druid](markdown/Java/Spring/SpringBoot%E9%9B%86%E6%88%90Druid.md)
 * [SpringBoot集成SpringSecurity](markdown/Java/Spring/SpringBoot%E9%9B%86%E6%88%90SpringSecurity.md)
@@ -101,6 +103,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [SpringBoot 项目traceId生成和日志打印](<markdown/Java/Spring/SpringBoot 项目traceId生成和日志打印.md>)
 * [SpringBoot 应用启动原理(一) 将启动脚本嵌入Jar](<markdown/Java/Java SE/SpringBoot 应用启动原理(一) 将启动脚本嵌入Jar.md>)
 * [SpringBoot 应用启动原理(二) 扩展URLClassLoader实现嵌套Jar加载](<markdown/Java/Spring/SpringBoot 应用启动原理(二) 扩展URLClassLoader实现嵌套Jar加载.md>)
+* [SpringBoot集成Netty](markdown/Java/Spring/SpringBoot集成Netty.md)
 * [SpringCloud集成Feign](markdown/Java/Spring/SpringCloud集成Feign.md)
 * [SpringCloud集成Ribbon](markdown/Java/Spring/SpringCloud集成Ribbon.md)
 * [SpringCloud 自定义端云互联路由配置](<markdown/Java/Spring/SpringCloud 自定义端云互联路由配置.md>)
@@ -173,6 +176,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [Linux 安装Redis](<markdown/操作系统/Linux/Linux 安装Redis.md>)
 * [Deepin 安装MySQL](<markdown/操作系统/Linux/Deepin 安装MySQL.md>)
 * [Shell 一个简单好用的程序管理脚本](<markdown/操作系统/Linux/Shell 一个简单好用的程序管理脚本.md>)
+* [Linux 查看进程占用内存的情况](<markdown/操作系统/Linux/Linux 查看进程占用内存的情况.md>)
 
 #### Windows
 
@@ -248,6 +252,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
   * [JProfiler 激活](<markdown/其他/开发工具/JProfiler 激活.md>)
   * [Navicat Premium 激活](<markdown/其他/开发工具/Navicat Premium 激活.md>)
   * [StartUML 提示Unregistered Version解决](<markdown/其他/开发工具/StartUML 提示Unregistered Version解决.md>)
+  * [Electerm 开源的SSH/SFTP客户端 配Gitee绝了](<markdown/其他/开发工具/Electerm 开源的SSH&SFTP客户端 配Gitee绝了.md>)
 * 项目管理
   * PMP
     * [PMP考点思维导图完整版](markdown/其他/项目管理/PMP/PMP考点思维导图完整版.md)
