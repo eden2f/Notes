@@ -72,15 +72,17 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [JVM 垃圾收集器日志及参数配置](<markdown/Java/Java SE/JVM 垃圾收集器日志及参数配置.md>)
 * [JVM 类加载的过程](<markdown/Java/Java SE/JVM 类加载的过程.md>)
 * [JVM 类加载器](<markdown/Java/Java SE/JVM 类加载器.md>)
-
+* [Java 内省(Introspector、PropertyDescriptor和MethodDescriptor)](<markdown/Java/Java SE/Java 内省(Introspector、PropertyDescriptor和MethodDescriptor).md>)
 * [Jackson parser LocalDataTime 异常](<markdown/Java/Java SE/Jackson parser LocalDataTime 异常.md>)
 * [Jackson JSON parse error](<markdown/Java/Java SE/Jackson JSON parse error.md>)
+* [Fastjson 序列化策略SerializerFeature](<markdown/Java/Java SE/Fastjson 序列化策略SerializerFeature.md>)
 * [Java 单例模式实现(懒加载+线程安全)](<markdown/Java/Java SE/Java 单例模式实现(懒加载+线程安全).md>)
 * [Java日志框架演进历程及特点：从JCL到SLF4J，Logback、Log4J与Log4J2的诞生以及JCL-Over-SLF4J的作用](<markdown/Java/Java SE/Java日志框架演进历程及特点：从JCL到SLF4J，Logback、Log4J与Log4J2的诞生以及JCL-Over-SLF4J的作用.md>)
 * [Java Spring Web项目请求日志打印的4种实现](<markdown/Java/Java SE/Java Spring Web项目请求日志打印的4种实现.md>)
 * [Mybatis 代码生成器Mybatis-Generator使用详解](<markdown/Java/Java SE/Mybatis 代码生成器Mybatis-Generator使用详解.md>)
 * [持久化延时任务框架 common-schedule](<markdown/Java/Java SE/持久化延时任务框架 common-schedule.md>)
 * [Java 异常处理中在finally里面写return会怎么样](<markdown/Java/Java SE/Java 异常处理中在finally里面写return会怎么样.md>)
+* [ApacheCommonsLang 工具类ToStringStyle](<markdown/Java/Java SE/ApacheCommonsLang 工具类ToStringStyle.md>)
 
 #### Spring
 
@@ -104,6 +106,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [SpringBoot 应用启动原理(一) 将启动脚本嵌入Jar](<markdown/Java/Java SE/SpringBoot 应用启动原理(一) 将启动脚本嵌入Jar.md>)
 * [SpringBoot 应用启动原理(二) 扩展URLClassLoader实现嵌套Jar加载](<markdown/Java/Spring/SpringBoot 应用启动原理(二) 扩展URLClassLoader实现嵌套Jar加载.md>)
 * [SpringBoot集成Netty](markdown/Java/Spring/SpringBoot集成Netty.md)
+* [SpringBoot 基于AOP实现的通用实验组件(AB实验/AB测试)](<markdown/Java/Spring/SpringBoot 基于AOP实现的通用实验组件(AB实验&AB测试).md>)
 * [SpringCloud集成Feign](markdown/Java/Spring/SpringCloud集成Feign.md)
 * [SpringCloud集成Ribbon](markdown/Java/Spring/SpringCloud集成Ribbon.md)
 * [SpringCloud 自定义端云互联路由配置](<markdown/Java/Spring/SpringCloud 自定义端云互联路由配置.md>)
@@ -248,6 +251,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [密码管理 Bitwarden服务端部署文档](<markdown/其他/密码管理 Bitwarden服务端部署文档.md>)
 * [PicGo集成Gitee搭建图床](markdown/其他/PicGo集成Gitee搭建图床.md)
 * [微信公众号后台服务 WeixinMPSaaS](<markdown/其他/微信公众号后台服务 WeixinMPSaaS.md>)
+* [UML 时序图知识总结(Loop、Opt、Par和Alt)](<markdown/其他/UML 时序图知识总结(Loop、Opt、Par和Alt).md>)
 * 开发工具
   * [JProfiler 激活](<markdown/其他/开发工具/JProfiler 激活.md>)
   * [Navicat Premium 激活](<markdown/其他/开发工具/Navicat Premium 激活.md>)
@@ -261,6 +265,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 
 ### 🥗阅读
 
+* [增长黑客：如何低成本实现爆发式成长](markdown/阅读/增长黑客：如何低成本实现爆发式成长.md)
 * [你当像鸟飞往你的山：塔拉.韦斯特弗](markdown/阅读/你当像鸟飞往你的山：塔拉.韦斯特弗.md)
 * [贫穷的本质：我们为什么摆脱不了贫穷](markdown/阅读/贫穷的本质：我们为什么摆脱不了贫穷.md)
 * [自控力：斯坦福大学最受欢迎心理学课程](markdown/阅读/自控力：斯坦福大学最受欢迎心理学课程.md)
