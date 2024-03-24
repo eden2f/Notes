@@ -168,6 +168,8 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [ElasticSearch 安装中文分词器 IK Analysis](<markdown/中间件/ElasticSearch/ElasticSearch 安装中文分词器 IK Analysis.md>)
 * [ElasticSearch 设置账号密码](<markdown/中间件/ElasticSearch/ElasticSearch 设置账号密码.md>)
 * [ElasticSearch存储设计与MySQL数据同步方案](markdown/中间件/ElasticSearch/ElasticSearch存储设计与MySQL数据同步方案.md)
+* [Elasticsearch TOO_MANY_REQUESTS/12/disk usage exceeded flood-stage watermark](<markdown/中间件/ElasticSearch/Elasticsearch TOO_MANY_REQUESTS 12 disk usage exceeded flood-stage watermark.md>)
+* [Elasticsearch 基于磁盘的shard分配机制浅析](<markdown/中间件/ElasticSearch/Elasticsearch 基于磁盘的shard分配机制浅析.md>)
 
 ### 🍳操作系统
 
@@ -180,10 +182,17 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [Deepin 安装MySQL](<markdown/操作系统/Linux/Deepin 安装MySQL.md>)
 * [Shell 一个简单好用的程序管理脚本](<markdown/操作系统/Linux/Shell 一个简单好用的程序管理脚本.md>)
 * [Linux 查看进程占用内存的情况](<markdown/操作系统/Linux/Linux 查看进程占用内存的情况.md>)
+* [Linux 查看一个文件夹的大小](<markdown/操作系统/Linux/Linux 查看一个文件夹的大小.md>)
+* [Linux 查看磁盘空间](<markdown/操作系统/Linux/Linux 查看磁盘空间.md>)
 
 #### Windows
 
 * [Windows 批处理文件(bat)](<markdown/操作系统/Windows/Windows 批处理文件(bat).md>)
+* [在 PC 上的 iTunes 中备份 iPhone、iPad 或 iPod touch](<markdown/操作系统/Windows/在 PC 上的 iTunes 中备份 iPhone、iPad 或 iPod touch.md>)
+
+#### macOS
+
+* [macOS 全局环境变量设置](<markdown/操作系统/macOS/macOS 全局环境变量设置.md>)
 
 ### 🍖Python
 
@@ -251,6 +260,7 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 * [密码管理 Bitwarden服务端部署文档](<markdown/其他/密码管理 Bitwarden服务端部署文档.md>)
 * [PicGo集成Gitee搭建图床](markdown/其他/PicGo集成Gitee搭建图床.md)
 * [微信公众号后台服务 WeixinMPSaaS](<markdown/其他/微信公众号后台服务 WeixinMPSaaS.md>)
+* [WeixinMPSaaS 搜索能力接入指南](<markdown/其他/WeixinMPSaaS 搜索能力接入指南.md>)
 * [UML 时序图知识总结(Loop、Opt、Par和Alt)](<markdown/其他/UML 时序图知识总结(Loop、Opt、Par和Alt).md>)
 * 开发工具
   * [JProfiler 激活](<markdown/其他/开发工具/JProfiler 激活.md>)
@@ -265,6 +275,11 @@ Github（始于2023） : [https://github.com/eden2f/Notes](https://github.com/ed
 
 ### 🥗阅读
 
+* [华衫讲透孙子兵法：通俗通透解读经典战例，逐字逐句讲透兵法原意](markdown/阅读/华衫讲透孙子兵法：通俗通透解读经典战例，逐字逐句讲透兵法原意.md)
+* [苏东坡传：林语堂著传记作品](markdown/阅读/苏东坡传：林语堂著传记作品.md)
+* [刻意练习：如何从新手到大师](markdown/阅读/刻意练习：如何从新手到大师.md)
+* [置身事内：中国政府与经济发展](markdown/阅读/置身事内：中国政府与经济发展.md)
+* [指数基金投资指南：不懂股票、不看财报、不怕下跌，新手一看就懂的稳健投资策略](markdown/阅读/指数基金投资指南：不懂股票、不看财报、不怕下跌，新手一看就懂的稳健投资策略.md)
 * [增长黑客：如何低成本实现爆发式成长](markdown/阅读/增长黑客：如何低成本实现爆发式成长.md)
 * [你当像鸟飞往你的山：塔拉.韦斯特弗](markdown/阅读/你当像鸟飞往你的山：塔拉.韦斯特弗.md)
 * [贫穷的本质：我们为什么摆脱不了贫穷](markdown/阅读/贫穷的本质：我们为什么摆脱不了贫穷.md)
